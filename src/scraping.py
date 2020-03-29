@@ -10,4 +10,4 @@ page = requests.get(str) #recuperamos la información correspondiente a la respu
 # - page.status_code: código HTTP devuelto por el servidor
 # - page.content: contenido en bruto de la respuesta del servidor
 
-soup = BeautifulSoup(page.content)
+soup = BeautifulSoup(page.content, "html.parser")
