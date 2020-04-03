@@ -1,7 +1,9 @@
 #Cargamos las librerías necesarias
 import requests
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from urllib.error import HTTPError
+
 
 #Creamos una función para la gestión de errores
 
