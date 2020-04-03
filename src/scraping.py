@@ -57,12 +57,26 @@ for i, name in enumerate(nameList):
     product_name = product_name.strip()
     product_quantity = title.split(' ',1)[1].split(',')[1].strip() #Nos devuelve la cantidad (bandeja 300 g)
     product_quantity = product_quantity.strip()
-    #Sacar el valor nutricional
-    
-    #quantity_product = name.find("span", {"class":"quantity-product"}).text
-    #price_product = name.find("span", {"class":"price-product"}).text
+    #Sacar el valor nutricional. Hay que buscarlo en el texto
+    #<a class="nutriscore score-c"
+    nutrition = name.find("a", text="nutriscore score-")
+    # Las siguientes etiquetas no se encuentran informadas en todos los casos, lo que hacemos es, 
+    #en el caso de que no existan poner valos NaN y en otro caso recuperar la información
+    if name.find("span", {"class":"quantity-product"})==None:
+        quantity_product = "NaN"
+    else:
+        quantity_product = name.find("span", {"class":"quantity-product"}).text
+        quantity_product = quantity_product.strip()
+        
+    if name.find("span", {"class":"price-product"}) == None:
+        price_product = "NaN"
+    else:
+        price_product = name.find("span", {"class":"price-product"}).text
+        price_product = price_product.strip()
+        
     #Rating - número valoraciones usuarios
     rating = name.find("div", {"class":"ratingSubtitle"}).get_text()
+    rating = rating.split('de')[0]
     rating = rating.strip()
     price_before = name.find("span", {"class":"price-before"}).get_text() 
     price_before = price_before.strip()
@@ -72,9 +86,11 @@ for i, name in enumerate(nameList):
     #append dict to array
        
     #Quitar retornos de carro (\n) y dejar solo precio y €. En la valoración dejar solo la puntuación
-    data.append({"articulo" : title, "Nombre" : product_name, "Camtidad" : product_quantity, "valoracion" : rating, 
+    data.append({"articulo" : title, "Nombre" : product_name, "Camtidad" : product_quantity, "valor nutricional" : nutrition, 
+                 "cantidad base" : quantity_product, "precio por cantidad base" : price_product,"valoracion" : rating, 
                  "precio_antes": price_before, "precio_actual" : price_now})
-    print("%d|%s | %s|%s|%s|%s|%s| " %(i+1,title, product_name, product_quantity,  rating, price_before, price_now))
+    print("%d|%s | %s|%s|%s|%s|%s|%s|%s|%s " %(i+1,title, product_name, product_quantity, nutrition, quantity_product, 
+                                               price_product, rating, price_before, price_now))
     
 #Mostramos el diccionario con toda la información cargada.    
 print (data)    
