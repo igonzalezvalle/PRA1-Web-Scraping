@@ -123,4 +123,4 @@ print (data)
 
 #Como último paso trasladamos los datos a un dataframe para poder volcarlos a un csv
 df=pd.DataFrame(data)
-#df.to_csv('alimentos_sin_gluten.csv', index='FALSE', encoding='utf-8')
+#df.to_csv('AlimentosSinGluten.csv', index='FALSE', encoding='utf-8')
