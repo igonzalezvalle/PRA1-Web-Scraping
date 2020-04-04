@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.error import HTTPError
 import pandas as pd
 from datetime import date
-
+from selenium import webdriver
 
 #Creamos una función para la gestión de errores
 
@@ -37,6 +37,22 @@ else:
 #urlpage = 'https://supermercado.eroski.es/es/supermercado/SinGluten/'
 
 #Esto de abajo lo tendremos que meter en una función
+
+
+#######################################################################
+
+driver = webdriver.Chrome("C:/Users/Cristina/Desktop/chromedriver.exe") #la ruta donde tengamos el ejecutable
+driver.get(str)
+
+for i in range (1,30):
+    # execute script to scroll down the page
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
+    # sleep for 3s
+    time.sleep(3)
+    # driver.quit()
+
+#######################################################################
+
 
 page = requests.get(str).text #recuperamos la información correspondiente a la respuesta de la petición
 
