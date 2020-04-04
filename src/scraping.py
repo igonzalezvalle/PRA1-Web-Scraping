@@ -3,6 +3,7 @@ import requests
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from urllib.error import HTTPError
+import pandas as pd
 
 
 #Creamos una función para la gestión de errores
@@ -52,9 +53,10 @@ data = []
 
 for i, name in enumerate(nameList):
     title = name.find("h2", {"class":"product-title product-title-resp"}).text
-    title = title.strip() #limpiamos la variable, dejando solo el texto
+    title = title.strip()
     product_name = title.split(',')[0] #Nos devuelve el nombre sin el peso (Filetes de lomo adobado de cerdo extrafino EROSKI)
     product_name = product_name.strip()
+    # product quantity es presentación del producto
     product_quantity = title.split(' ',1)[1].split(',')[1].strip() #Nos devuelve la cantidad (bandeja 300 g)
     product_quantity = product_quantity.strip()
     #Sacar el valor nutricional. Hay que buscarlo en el texto
@@ -78,21 +80,27 @@ for i, name in enumerate(nameList):
     rating = name.find("div", {"class":"ratingSubtitle"}).get_text()
     rating = rating.split('de')[0]
     rating = rating.strip()
-    price_before = name.find("span", {"class":"price-before"}).get_text() 
-    price_before = price_before.strip()
-    price_now = name.find("span", {"class":"price-now"}).get_text() 
+    
+    #Podemos incluir aquí las ofertas
+    #En los precios tenemos que dejar únicamente el precio
+    if name.find("span", {"class":"price-offer-before"})==None:
+        price_before = "NaN"
+    else:
+        price_before = name.find("span", {"class":"price-offer-before"}).get_text()
+        price_before = price_before.strip()
+        
+    price_now = name.find("span", {"class":"price-offer-now"}).get_text() 
     price_now = price_now.strip()
     #print(name.get_text())
     #append dict to array
-       
+    
     #Quitar retornos de carro (\n) y dejar solo precio y €. En la valoración dejar solo la puntuación
-    data.append({"articulo" : title, "Nombre" : product_name, "Camtidad" : product_quantity, "valor nutricional" : nutrition, 
+    data.append({"articulo" : title, "Nombre" : product_name, "Presentación" : product_quantity, "valor nutricional" : nutrition, 
                  "cantidad base" : quantity_product, "precio por cantidad base" : price_product,"valoracion" : rating, 
                  "precio_antes": price_before, "precio_actual" : price_now})
     print("%d|%s | %s|%s|%s|%s|%s|%s|%s|%s " %(i+1,title, product_name, product_quantity, nutrition, quantity_product, 
                                                price_product, rating, price_before, price_now))
     
-#Mostramos el diccionario con toda la información cargada.    
 print (data)    
 
 #ProductInfo = soup.find("h2", {"class": "product-title product-title-resp"}).text
@@ -112,3 +120,7 @@ print (data)
 
 #ProductName = ProductInfo.split(',')[0]  #Nos devuelve el nombre sin el peso (Filetes de lomo adobado de cerdo extrafino EROSKI)
 #ProductQuantity = ProductInfo.split(' ',1)[1].split(',')[1].strip() #Nos devuelve la cantidad (bandeja 300 g)
+
+#Como último paso trasladamos los datos a un dataframe para poder volcarlos a un csv
+df=pd.DataFrame(data)
+#df.to_csv('alimentos_sin_gluten.csv', index='FALSE', encoding='utf-8')
