@@ -41,14 +41,14 @@ else:
 
 #######################################################################
 
-driver = webdriver.Chrome("C:/Users/Cristina/Desktop/chromedriver.exe") #la ruta donde tengamos el ejecutable
-driver.get(str)
+#driver = webdriver.Chrome("C:/Users/Cristina/Desktop/chromedriver.exe") #la ruta donde tengamos el ejecutable
+#driver.get(str)
 
-for i in range (1,30):
+#for i in range (1,30):
     # execute script to scroll down the page
-    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
-    # sleep for 3s
-    time.sleep(3)
+#    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
+    # sleep for 10s
+#    time.sleep(10)
     # driver.quit()
 
 #######################################################################
@@ -140,4 +140,4 @@ print (data)
 
 #Como último paso trasladamos los datos a un dataframe para poder volcarlos a un csv
 df=pd.DataFrame(data)
-#df.to_csv('AlimentosSinGluten.csv', index='FALSE', encoding='utf-8')
+df.to_csv('AlimentosSinGluten.csv', index='FALSE', encoding='utf-8')
