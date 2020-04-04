@@ -4,6 +4,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 from urllib.error import HTTPError
 import pandas as pd
+from datetime import date
 
 
 #Creamos una función para la gestión de errores
@@ -97,7 +98,7 @@ for i, name in enumerate(nameList):
     #Quitar retornos de carro (\n) y dejar solo precio y €. En la valoración dejar solo la puntuación
     data.append({"articulo" : title, "Nombre" : product_name, "Presentación" : product_quantity, "valor nutricional" : nutrition, 
                  "cantidad base" : quantity_product, "precio por cantidad base" : price_product,"valoracion" : rating, 
-                 "precio_antes": price_before, "precio_actual" : price_now})
+                 "precio_antes": price_before, "precio_actual" : price_now, "fecha": date.today()})
     print("%d|%s | %s|%s|%s|%s|%s|%s|%s|%s " %(i+1,title, product_name, product_quantity, nutrition, quantity_product, 
                                                price_product, rating, price_before, price_now))
     
