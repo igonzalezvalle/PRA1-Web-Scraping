@@ -6,4 +6,4 @@ Contiene el documento con las respuestas a las cuestiones planteadas en la pract
 
 /src  
 Contiene el código correspondiente a la práctica para la generación del dataset de salida en formato csv, generado mediante web scraping en python.  
-Contiene el dataset generado por el código python  
+Contiene el dataset en formato csvgenerado por el código python  
