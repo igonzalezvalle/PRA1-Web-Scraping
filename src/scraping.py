@@ -6,6 +6,8 @@ from urllib.error import HTTPError
 import pandas as pd
 from datetime import date
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+import time
 
 #Creamos una función para la gestión de errores
 
@@ -15,7 +17,7 @@ def getTitle(url):
     except HTTPError as e:
         return None
     try:
-        bsObj = BeautifulSoup(html.read())
+        bsObj = BeautifulSoup(html.read(), "html.parser")
         title = bsObj.body.h2
     except AttributeError as e:
         return None
@@ -36,38 +38,52 @@ else:
 #html = urlopen("https://supermercado.eroski.es/es/login/delivery/?zipCode=48901")
 #urlpage = 'https://supermercado.eroski.es/es/supermercado/SinGluten/'
 
-#Esto de abajo lo tendremos que meter en una función
+
+#Creamos la función de scroll infinito (cuando llamemos a esta función recorrerá todas las páginas disponibles al hacer el scroll hacia abajo
+def scroll(driver, timeout):
+
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    # el tiempo de espera vendrá definido como uno de los valores de la función
+    Scroll_Wait = timeout
+
+    i=0 # contador de scroll
+    while True:
+        # execute script to scroll down the page
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        
+        time.sleep(Scroll_Wait)
+        # Calculate new scroll height and compare with last scroll height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        i=i+1
+        print ("scroll número", i)
+        if new_height == last_height:
+            break
+        last_height = new_height
+    print ("fin del scroll")
+
+#Identificamos el driver    
+driver = webdriver.Chrome("C:/chromedriver.exe") #la ruta donde tengamos el ejecutable
+#Creamos una espera previa a dar un error
+driver.implicitly_wait(100)
+#abrimos la página
+driver.get(str)
+
+#Llamamos a la función de scroll
+scroll (driver, 5)
+
+#Parseamos el html resultante con toda la información
+soup = BeautifulSoup(driver.page_source, "html.parser")
+
+#cerramos el driver 
+driver.close()
 
 
-#######################################################################
-
-#driver = webdriver.Chrome("C:/Users/Cristina/Desktop/chromedriver.exe") #la ruta donde tengamos el ejecutable
-#driver.get(str)
-
-#for i in range (1,30):
-    # execute script to scroll down the page
-#    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
-    # sleep for 10s
-#    time.sleep(10)
-    # driver.quit()
-
-#######################################################################
-
-
-page = requests.get(str).text #recuperamos la información correspondiente a la respuesta de la petición
-
-#Parseamos el html
-soup = BeautifulSoup(page, "html.parser")
-
-#bsObj = BeautifulSoup(page, 'lxml')
-#print(bsObj)
-
-#Extraer el texto de la etiqueta
+#Extraer el texto de la etiqueta que estamos buscando
 nameList = soup.findAll("div", {"class":"product-description"})
 
 #Inicializamos el diccionario de datos donde cargaremos la información
 data = []
-
+#recorremos todas las etiquetas para crear el dataset
 for i, name in enumerate(nameList):
     title = name.find("h2", {"class":"product-title product-title-resp"}).text
     title = title.strip()
