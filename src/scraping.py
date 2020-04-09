@@ -15,12 +15,12 @@ import time
 def getTitle(url):
     try:
         html = urlopen(url)
-    except HTTPError as e:
+    except HTTPError:
         return None
     try:
         bsObj = BeautifulSoup(html.read(), "html.parser")
         title = bsObj.body.h2
-    except AttributeError as e:
+    except AttributeError:
         return None
     return title
 
@@ -132,33 +132,39 @@ for i, name in enumerate(nameList):
         price_product = "NaN"
     else:
         price_product = name.find("span", {"class":"price-product"}).text
-        price_product = price_product.split(' ')[0].strip()
+        price_product = price_product.split(' ')[0].replace(",",".").strip()
         
-    #Rating - número valoraciones usuarios
+    #Rating_stats - número valoraciones usuarios
+    rating_stats = name.find("div", {"class":"ratingTitle"}).span.text
+    rating_stats = rating_stats.replace ("(","").replace(")","")
+
+    #Rating - Valoración del producto
     rating = name.find("div", {"class":"ratingSubtitle"}).get_text()
     rating = rating.split('de')[0]
-    rating = rating.strip()
-    
+    rating = rating.replace(",",".").strip()
+    #Porcentaje de valoración de los clientes.
+
+
     #Podemos incluir aquí las ofertas
     #En los precios tenemos que dejar únicamente el precio
     if name.find("span", {"class":"price-offer-before"})==None:
         price_before = "NaN"
     else:
         price_before = name.find("span", {"class":"price-offer-before"}).get_text()
-        price_before = price_before.strip()
+        price_before = price_before.replace(",",".").strip()
         
     price_now = name.find("span", {"class":"price-offer-now"}).get_text() 
-    price_now = price_now.strip()
+    price_now = price_now.replace(",",".").strip()
     #print(name.get_text())
 
     #append dict to array
-    data.append({"id": i, "articulo" : title, "Nombre" : product_name, "Presentación" : product_quantity, "valor nutricional" : nutrition_score, 
-                 "cantidad base" : quantity_product, "precio por cantidad base" : price_product,"valoracion" : rating, 
-                 "precio_antes": price_before, "precio_actual" : price_now, "fecha": date.today()})
+    data.append({"Id": i, "Artículo" : title, "Nombre" : product_name, "Presentación" : product_quantity, "Valor_Nutricional" : nutrition_score, 
+                 "Cantidad_Base" : quantity_product, "Precio_Unidad_Base" : price_product,"Número_Valoraciones" : rating_stats, 
+                 "Valoración": rating, "Precio_Anterior": price_before, "Precio_Actual" : price_now, "Fecha_Extracción": date.today()})
     
-print (data)    
+#print (data)    
 
 
 #Como último paso trasladamos los datos a un dataframe para poder volcarlos a un csv
 df=pd.DataFrame(data)
-df.to_csv('AlimentosSinGluten.csv', index='FALSE', encoding='utf-8')
+df.to_csv('AlimentosSinGluten.csv', index=False, encoding='utf-8')
