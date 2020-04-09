@@ -7,7 +7,6 @@ import pandas as pd
 from datetime import date
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.firefox.options import Options
 import time
 
 #Creamos una función para la gestión de errores
@@ -41,46 +40,29 @@ else:
 
 
 #Creamos la función de scroll infinito (cuando llamemos a esta función recorrerá todas las páginas disponibles al hacer el scroll hacia abajo
-#def scroll(driver, timeout):
-
-#    last_height = driver.execute_script("return document.body.scrollHeight")
-#    # el tiempo de espera vendrá definido como uno de los valores de la función
-#    Scroll_Wait = timeout
-
-#    i=0 # contador de scroll
-#    while True:
-#        # execute script to scroll down the page
-#        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        
-#        time.sleep(Scroll_Wait)
-#        # Calculate new scroll height and compare with last scroll height
-#        new_height = driver.execute_script("return document.body.scrollHeight")
-#        i=i+1
-#        print ("scroll número", i)
-#        if new_height == last_height:
-#            break
-#        last_height = new_height
-#    print ("fin del scroll")
-
-
 def scroll(driver, timeout):
 
-    for i in range (1,40):
-        # execute script to scroll down the page
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);var lenOfPage=document.body.scrollHeight;return lenOfPage;")
-        # sleep
-        time.sleep(timeout)
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    # el tiempo de espera vendrá definido como uno de los valores de la función
+    Scroll_Wait = timeout
 
+    i=0 # contador de scroll
+    while True:
+        # execute script to scroll down the page
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        
+        time.sleep(Scroll_Wait)
+        # Calculate new scroll height and compare with last scroll height
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        i=i+1
+        print ("scroll número", i)
+        if new_height == last_height:
+            break
+        last_height = new_height
+    print ("fin del scroll")
 
 #Identificamos el driver    
-#driver = webdriver.Chrome("C:/chromedriver.exe") #la ruta donde tengamos el ejecutable
-
-driver = webdriver.PhantomJS("C:/phantomjs.exe")
-
-options = Options()
-options.headless = True #No abrimos el navegador
-#driver = webdriver.Firefox(firefox_options=options, executable_path = "C:/geckodriver.exe")
-
+driver = webdriver.Chrome("C:/chromedriver.exe") #la ruta donde tengamos el ejecutable
 #Creamos una espera previa a dar un error
 driver.implicitly_wait(100)
 #abrimos la página
