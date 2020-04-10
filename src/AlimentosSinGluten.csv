@@ -1,0 +1,478 @@
+Id,Artículo,Nombre,Presentación,Valor_Nutricional,Cantidad_Base,Precio_Unidad_Base,Número_Valoraciones,Valoración,Precio_Anterior,Precio_Actual,Fecha_Extracción
+0,"Filetes de lomo adobado de cerdo extrafino EROSKI, bandeja 300 g",Filetes de lomo adobado de cerdo extrafino EROSKI,bandeja 300 g,score-c,KILO,12.83,9,4.5,NaN,3.85,2020-04-10
+1,"Picada mixta cerdo-vacuno burger meat EROSKI basic, bandeja 1 kg",Picada mixta cerdo-vacuno burger meat EROSKI basic,bandeja 1 kg,score-c,NaN,NaN,1,4.0,5.30,4.99,2020-04-10
+2,"Filetes de lomo de cerdo adobado EROSKI, bandeja 500 g",Filetes de lomo de cerdo adobado EROSKI,bandeja 500 g,score-c,KILO,9.50,4,4.2,NaN,4.75,2020-04-10
+3,"Tomate frito casero con aceite de oliva EROSKI, frasco 350 g",Tomate frito casero con aceite de oliva EROSKI,frasco 350 g,score-b,KILO,3.11,17,4.8,NaN,1.09,2020-04-10
+4,"Queso rallado 4 quesos EROSKI, bolsa 150 g",Queso rallado 4 quesos EROSKI,bolsa 150 g,score-d,KILO,10.60,7,4.2,NaN,1.59,2020-04-10
+5,"Queso rallado Mozzarella EROSKI para pizza, bolsa 200 g",Queso rallado Mozzarella EROSKI para pizza,bolsa 200 g,score-d,KILO,7.25,4,5.0,NaN,1.45,2020-04-10
+6,"Picada mixta de cerdo-vacuno EROSKI, bandeja 400 g",Picada mixta de cerdo-vacuno EROSKI,bandeja 400 g,score-d,KILO,6.88,4,4.0,NaN,2.75,2020-04-10
+7,"Patas de pulpo cocido EROSKI, bandeja 200 g",Patas de pulpo cocido EROSKI,bandeja 200 g,score-a,KILO,39.95,4,5.0,NaN,7.99,2020-04-10
+8,"Hamburguesa de ternera E. LABEL SELEQTIA, 4 unid, bandeja 480 g",Hamburguesa de ternera E. LABEL SELEQTIA,4 unid,score-c,KILO,12.71,6,4.6,NaN,6.10,2020-04-10
+9,"Lomo adobado fileteado EROSKI, bandeja aprox. 800 g",Lomo adobado fileteado EROSKI,bandeja aprox. 800 g,score-c,KILO,8.75,2,5.0,NaN,7.00,2020-04-10
+10,"Picada de vacuno EROSKI, bandeja 400 g",Picada de vacuno EROSKI,bandeja 400 g,score-c,KILO,7.50,0,0,NaN,3.00,2020-04-10
+11,"Bacón cocido y ahumado EROSKI basic, sobre 200g",Bacón cocido y ahumado EROSKI basic,sobre 200g,score-e,KILO,8.25,20,4.6,NaN,1.65,2020-04-10
+12,"Burguer Meat de vacuno EROSKI basic, bandeja 1 kg",Burguer Meat de vacuno EROSKI basic,bandeja 1 kg,score-c,NaN,NaN,0,0,NaN,5.30,2020-04-10
+13,"Chorizo extra dulce EROSKI, sarta 250 g",Chorizo extra dulce EROSKI,sarta 250 g,score-e,KILO,10.60,9,4.7,NaN,2.65,2020-04-10
+14,"Chuleta pavo al ajillo EROSKI, bandeja aprox. 500 g",Chuleta pavo al ajillo EROSKI,bandeja aprox. 500 g,score-b,KILO,7.46,6,4.8,NaN,3.73,2020-04-10
+15,"Hamburguesa de pollo c/espinacas EROSKI, 4 unid., bandeja 313 g",Hamburguesa de pollo c/espinacas EROSKI,4 unid.,score-b,KILO,8.79,10,4.9,NaN,2.75,2020-04-10
+16,"Lomo de cerdo ibérico adobado Eroski SELEQTIA, bandeja aprox. 350 g",Lomo de cerdo ibérico adobado Eroski SELEQTIA,bandeja aprox. 350 g,score-c,KILO,23.94,2,5.0,NaN,8.38,2020-04-10
+17,"Filetes de pechuga de pavo al ajillo EROSKI, bandeja aprox. 500 g",Filetes de pechuga de pavo al ajillo EROSKI,bandeja aprox. 500 g,score-b,KILO,8.66,3,4.6,NaN,4.33,2020-04-10
+18,"Chorizo dulce EROSKI basic, sarta 200 g",Chorizo dulce EROSKI basic,sarta 200 g,score-e,KILO,9.25,2,3.0,NaN,1.85,2020-04-10
+19,"Palitos de surimi MSC EROSKI, bandeja 300 g",Palitos de surimi MSC EROSKI,bandeja 300 g,score-c,KILO,10.50,6,4.6,NaN,3.15,2020-04-10
+20,"Taquitos de bacón ahumado con humo natural EROSKI, pack 2x100 g",Taquitos de bacón ahumado con humo natural EROSKI,pack 2x100 g,score-e,KILO,13.75,2,4.5,NaN,2.75,2020-04-10
+21,"Pistachos tostados-salados EROSKI, bolsa 400 g",Pistachos tostados-salados EROSKI,bolsa 400 g,score-c,KILO,16.23,0,0,NaN,6.49,2020-04-10
+22,"Tomate frito EROSKI, frasco 550 g",Tomate frito EROSKI,frasco 550 g,NaN,KILO,1.47,1,5.0,NaN,0.81,2020-04-10
+23,"Jamón cocido EROSKI basic, sobre 275 g",Jamón cocido EROSKI basic,sobre 275 g,score-c,KILO,7.13,1,5.0,NaN,1.96,2020-04-10
+24,"Jamón cocido extra EROSKI Maestro, sobre 200 g",Jamón cocido extra EROSKI Maestro,sobre 200 g,score-c,KILO,11.75,20,4.7,NaN,2.35,2020-04-10
+25,"Chorizo Pamplona extra EROSKI basic, sobre 200 g",Chorizo Pamplona extra EROSKI basic,sobre 200 g,score-e,KILO,7.10,2,5.0,NaN,1.42,2020-04-10
+26,"Yogur natural EROSKI basic, pack 8x125 g",Yogur natural EROSKI basic,pack 8x125 g,score-a,KILO,0.96,4,5.0,NaN,0.96,2020-04-10
+27,"Queso fundido EROSKI basic, lonchas, sobre 450 g",Queso fundido EROSKI basic,lonchas,score-d,KILO,3.44,4,4.7,NaN,1.55,2020-04-10
+28,"Lomo adob. fileteado al vacío EROSKI basic, bandeja aprox. 800 g",Lomo adob. fileteado al vacío EROSKI basic,bandeja aprox. 800 g,score-c,KILO,6.80,3,3.6,NaN,5.44,2020-04-10
+29,"Fiambre de pechuga de pavo EROSKI basic, sobre 225 g",Fiambre de pechuga de pavo EROSKI basic,sobre 225 g,score-d,KILO,9.11,3,5.0,NaN,2.05,2020-04-10
+30,"Yogur de fresa-plátano-limón EROSKI basic, pack 8x125 g",Yogur de fresa-plátano-limón EROSKI basic,pack 8x125 g,score-b,KILO,1.04,5,5.0,NaN,1.05,2020-04-10
+31,"Pistachos tostados EROSKI, tarrina 200 g",Pistachos tostados EROSKI,tarrina 200 g,score-a,KILO,18.75,1,5.0,NaN,3.75,2020-04-10
+32,"Pistachos tostados EROSKI, bolsa 175 g",Pistachos tostados EROSKI,bolsa 175 g,score-c,KILO,17.09,3,4.3,NaN,2.99,2020-04-10
+33,"Filetes de pechuga pollo al ajillo EROSKI, bandeja peso aprox. 500 g",Filetes de pechuga pollo al ajillo EROSKI,bandeja peso aprox. 500 g,score-b,KILO,7.96,1,5.0,NaN,3.98,2020-04-10
+34,"Filete de pechuga de pavo pimentón EROSKI, bandeja aprox. 430 g",Filete de pechuga de pavo pimentón EROSKI,bandeja aprox. 430 g,score-b,KILO,8.65,1,5.0,NaN,3.72,2020-04-10
+35,"Carne picada 100% vacuno EROSKI, bandeja 400 g",Carne picada 100% vacuno EROSKI,bandeja 400 g,score-b,KILO,10.50,6,5.0,NaN,4.20,2020-04-10
+36,"Griego con fresas EROSKI, pack 6x125 g",Griego con fresas EROSKI,pack 6x125 g,score-c,KILO,2.00,9,4.5,NaN,1.49,2020-04-10
+37,"Queso rallado Emmental EROSKI, bolsa 200 g",Queso rallado Emmental EROSKI,bolsa 200 g,score-d,KILO,6.75,4,5.0,NaN,1.35,2020-04-10
+38,"Longaniza de pollo EROSKI Sannia, bandeja 360 g",Longaniza de pollo EROSKI Sannia,bandeja 360 g,score-c,KILO,8.33,3,4.0,NaN,3.00,2020-04-10
+39,"Bebida de soja calcio ligera EROSKI, brik 1 litro",Bebida de soja calcio ligera EROSKI,brik 1 litro,score-a,NaN,NaN,4,4.5,NaN,0.94,2020-04-10
+40,"Lomo embuchado EROSKI, pack 2x62,5 g",Lomo embuchado EROSKI,pack 2x62,score-d,KILO,20.00,0,0,NaN,2.50,2020-04-10
+41,"Bebida de soja EROSKI, brik 1 litro",Bebida de soja EROSKI,brik 1 litro,score-a,NaN,NaN,0,0,NaN,0.94,2020-04-10
+42,"Salchichas Frankfurt EROSKI basic, pack 4x160 g",Salchichas Frankfurt EROSKI basic,pack 4x160 g,score-d,KILO,2.27,2,4.5,NaN,1.45,2020-04-10
+43,"Garbanzos cocidos EROSKI basic, frasco 400 g",Garbanzos cocidos EROSKI basic,frasco 400 g,score-a,KILO,1.63,1,5.0,NaN,0.65,2020-04-10
+44,"Chorizo extra picante EROSKI, sarta 250 g",Chorizo extra picante EROSKI,sarta 250 g,score-e,KILO,10.60,2,5.0,NaN,2.65,2020-04-10
+45,"Avellanas tostadas EROSKI, tarrina 150 g",Avellanas tostadas EROSKI,tarrina 150 g,score-a,KILO,17.93,0,0,NaN,2.69,2020-04-10
+46,"Copa de chocolate-nata EROSKI, pack 4x115 g",Copa de chocolate-nata EROSKI,pack 4x115 g,score-c,KILO,2.35,6,4.6,NaN,1.06,2020-04-10
+47,"Bonyourt yogur líquido de fresa-plátano EROSKI, pack 4x180 g",Bonyourt yogur líquido de fresa-plátano EROSKI,pack 4x180 g,score-b,KILO,2.28,3,4.6,NaN,1.65,2020-04-10
+48,"Batido de cacao EROSKI, pack 6x200 ml",Batido de cacao EROSKI,pack 6x200 ml,score-b,LITRO,0.90,3,5.0,NaN,1.05,2020-04-10
+49,"Tiras de bacón ahumado EROSKI basic, tarrina 200 g",Tiras de bacón ahumado EROSKI basic,tarrina 200 g,score-e,KILO,7.75,3,4.3,NaN,1.55,2020-04-10
+50,"Yogur de fresa-limón-coco-macedonia EROSKI basic, pack 12x125 g",Yogur de fresa-limón-coco-macedonia EROSKI basic,pack 12x125 g,score-b,KILO,1.04,4,3.7,NaN,1.55,2020-04-10
+51,"Petit para beber de fresa EROSKI, pack 6x100 ml",Petit para beber de fresa EROSKI,pack 6x100 ml,score-b,KILO,3.10,1,5.0,NaN,1.85,2020-04-10
+52,"Activitas de fresa EROSKI, pack 12x100 ml",Activitas de fresa EROSKI,pack 12x100 ml,score-b,KILO,2.50,2,4.5,NaN,2.99,2020-04-10
+53,"Longaniza de pavo EROSKI, bandeja 350 g",Longaniza de pavo EROSKI,bandeja 350 g,score-b,KILO,8.57,1,5.0,NaN,3.00,2020-04-10
+54,"Mejillón en escabeche EROSKI, pack 3x80 g",Mejillón en escabeche EROSKI,pack 3x80 g,score-c,KILO,6.50,0,0,NaN,1.55,2020-04-10
+55,"Bonyourt yogur líquido de fresa EROSKI, pack 4x180 g",Bonyourt yogur líquido de fresa EROSKI,pack 4x180 g,score-b,KILO,2.28,2,4.5,NaN,1.65,2020-04-10
+56,"Queso de Burgos EROSKI basic, pack 2x250 g",Queso de Burgos EROSKI basic,pack 2x250 g,score-c,KILO,3.18,0,0,NaN,1.59,2020-04-10
+57,"Activitas natural EROSKI, pack 12x100 ml",Activitas natural EROSKI,pack 12x100 ml,score-b,KILO,2.50,0,0,NaN,2.99,2020-04-10
+58,"Jamón cocido extra lonchas finas EROSKI, bandeja 150 g",Jamón cocido extra lonchas finas EROSKI,bandeja 150 g,score-d,KILO,13.00,0,0,NaN,1.95,2020-04-10
+59,"Chorizo dulce extra EROSKI basic, sobre 200 g",Chorizo dulce extra EROSKI basic,sobre 200 g,score-e,KILO,7.10,0,0,NaN,1.42,2020-04-10
+60,"Salmón ahumado reducido sal duo EROSKI, pack 2x50 g",Salmón ahumado reducido sal duo EROSKI,pack 2x50 g,score-d,KILO,39.50,4,4.7,NaN,3.95,2020-04-10
+61,"Cuajada de oveja Eroski SELEQTIA, tarro de barro 140 g",Cuajada de oveja Eroski SELEQTIA,tarro de barro 140 g,score-c,KILO,7.07,12,5.0,NaN,0.99,2020-04-10
+62,"Arroz con leche EROSKI, pack 4x130 g",Arroz con leche EROSKI,pack 4x130 g,score-c,KILO,2.23,3,5.0,NaN,1.17,2020-04-10
+63,"Hamburguesa de vacuno EROSKI basic, 6 unid., bandeja 510 g",Hamburguesa de vacuno EROSKI basic,6 unid.,score-d,KILO,6.18,0,0,3.61,3.15,2020-04-10
+64,"Palito de mar EROSKI basic, bolsa 450 g",Palito de mar EROSKI basic,bolsa 450 g,score-c,KILO,3.44,0,0,NaN,1.55,2020-04-10
+65,"Mejillón al vapor EROSKI, bolsa 1 kg",Mejillón al vapor EROSKI,bolsa 1 kg,score-a,NaN,NaN,11,4.6,NaN,5.45,2020-04-10
+66,"Natillas de vainilla EROSKI, pack 4x120 g",Natillas de vainilla EROSKI,pack 4x120 g,score-c,KILO,1.50,2,5.0,NaN,0.73,2020-04-10
+67,"Atún claro en escabeche EROSKI, pack 3x80 g",Atún claro en escabeche EROSKI,pack 3x80 g,score-b,KILO,8.25,0,0,NaN,1.99,2020-04-10
+68,"Queso rallado Grana Padano Eroski SELEQTIA, bolsa 100 g",Queso rallado Grana Padano Eroski SELEQTIA,bolsa 100 g,score-d,KILO,15.90,5,4.2,NaN,1.59,2020-04-10
+69,"Brocheta de muslo de pollo EROSKI , bandeja 360 g",Brocheta de muslo de pollo EROSKI,bandeja 360 g,score-c,KILO,9.72,1,5.0,NaN,3.50,2020-04-10
+70,"Yogur natural azucarado EROSKI basic, pack 8x125 g",Yogur natural azucarado EROSKI basic,pack 8x125 g,score-b,KILO,0.96,2,5.0,NaN,0.96,2020-04-10
+71,"Anacardos tostados-salados EROSKI, bolsa 175 g",Anacardos tostados-salados EROSKI,bolsa 175 g,score-c,KILO,13.43,1,2.0,NaN,2.35,2020-04-10
+72,"Tomate frito EROSKI basic, pack 3x200 g",Tomate frito EROSKI basic,pack 3x200 g,score-a,KILO,1.35,4,5.0,NaN,0.80,2020-04-10
+73,"Petit para beber de fresa-plátano EROSKI, pack 6x100 ml",Petit para beber de fresa-plátano EROSKI,pack 6x100 ml,score-b,KILO,3.10,3,5.0,NaN,1.85,2020-04-10
+74,"Mix de frutos secos crudos EROSKI, bolsa 150 g",Mix de frutos secos crudos EROSKI,bolsa 150 g,score-a,KILO,17.93,1,5.0,NaN,2.69,2020-04-10
+75,"Gazpacho EROSKI, brik 1 litro",Gazpacho EROSKI,brik 1 litro,score-a,NaN,NaN,3,5.0,NaN,1.75,2020-04-10
+76,"Flan de queso EROSKI, pack 4x100 g",Flan de queso EROSKI,pack 4x100 g,score-c,KILO,4.70,6,5.0,NaN,1.89,2020-04-10
+77,"Yogur desnatado con fresas EROSKI, pack 4x125 g",Yogur desnatado con fresas EROSKI,pack 4x125 g,score-a,KILO,1.68,5,5.0,NaN,0.85,2020-04-10
+78,"Jamón cocido extra EROSKI, sobre 250 g",Jamón cocido extra EROSKI,sobre 250 g,score-d,KILO,10.20,0,0,NaN,2.55,2020-04-10
+79,"Yogur con fresas-albaricoque-pera-mora EROSKI, pack 8x125 g",Yogur con fresas-albaricoque-pera-mora EROSKI,pack 8x125 g,score-b,KILO,1.84,1,5.0,NaN,1.85,2020-04-10
+80,"Salchichón extra EROSKI basic, sobre 200 g",Salchichón extra EROSKI basic,sobre 200 g,score-e,KILO,9.15,0,0,NaN,1.83,2020-04-10
+81,"Fuet extra EROSKI basic, unidad",Fuet extra EROSKI basic,unidad,score-e,NaN,NaN,0,0,NaN,1.49,2020-04-10
+82,"Filetes lomo adobado EROSKI Sannia, bandeja 300 g",Filetes lomo adobado EROSKI Sannia,bandeja 300 g,score-b,KILO,12.83,2,5.0,NaN,3.85,2020-04-10
+83,"Petit de bolsillo sabor fresa EROSKI, pack 4x80 g",Petit de bolsillo sabor fresa EROSKI,pack 4x80 g,score-b,KILO,5.50,0,0,NaN,1.75,2020-04-10
+84,"Pechuga de pavo marinada extrafina EROSKI, bandeja 330 g",Pechuga de pavo marinada extrafina EROSKI,bandeja 330 g,score-b,KILO,11.36,2,5.0,NaN,3.75,2020-04-10
+85,"Chorizo ibérico EROSKI, sobre 100 g",Chorizo ibérico EROSKI,sobre 100 g,score-e,KILO,24.00,3,4.6,NaN,2.40,2020-04-10
+86,"Queso rallado para fundir-gratinar EROSKI basic, bolsa 400 g",Queso rallado para fundir-gratinar EROSKI basic,bolsa 400 g,score-d,KILO,4.50,1,5.0,NaN,1.80,2020-04-10
+87,"Caldo de pollo EROSKI, brik 1 litro",Caldo de pollo EROSKI,brik 1 litro,score-b,NaN,NaN,2,5.0,NaN,0.90,2020-04-10
+88,"Mayonesa EROSKI basic, frasco 450 ml",Mayonesa EROSKI basic,frasco 450 ml,score-d,LITRO,2.64,1,5.0,NaN,1.19,2020-04-10
+89,"Almendras repeladas fritas EROSKI, tarrina 185 g",Almendras repeladas fritas EROSKI,tarrina 185 g,score-b,KILO,18.32,0,0,NaN,3.39,2020-04-10
+90,"Cacahuetes repelados fritos EROSKI, bolsa 400 g",Cacahuetes repelados fritos EROSKI,bolsa 400 g,score-c,KILO,3.88,0,0,NaN,1.55,2020-04-10
+91,"Picada de pollo burguer meat EROSKI Sannia, bandeja 400 g",Picada de pollo burguer meat EROSKI Sannia,bandeja 400 g,score-a,KILO,8.13,1,5.0,NaN,3.25,2020-04-10
+92,"Flan de huevo EROSKI, pack 4x100 g",Flan de huevo EROSKI,pack 4x100 g,score-c,KILO,2.90,2,5.0,NaN,1.14,2020-04-10
+93,"Yogur natural cremoso edulcorado 0% EROSKI, pack 4x125 g",Yogur natural cremoso edulcorado 0% EROSKI,pack 4x125 g,score-a,KILO,2.16,4,5.0,NaN,1.07,2020-04-10
+94,"Burguer Meat de pavo EROSKI, bandeja 400 g",Burguer Meat de pavo EROSKI,bandeja 400 g,score-b,KILO,7.88,2,5.0,NaN,3.15,2020-04-10
+95,"Fiambre de york para sándwich EROSKI basic, bandeja 300 g",Fiambre de york para sándwich EROSKI basic,bandeja 300 g,score-d,KILO,5.17,3,4.6,NaN,1.55,2020-04-10
+96,"Bebida de arroz EROSKI, brik 1 litro",Bebida de arroz EROSKI,brik 1 litro,score-b,NaN,NaN,1,4.0,NaN,1.27,2020-04-10
+97,"Salchichas con queso EROSKI, sobre 200 g",Salchichas con queso EROSKI,sobre 200 g,score-d,KILO,3.10,0,0,NaN,0.62,2020-04-10
+98,"Almendras repeladas fritas EROSKI, bolsa 175 g",Almendras repeladas fritas EROSKI,bolsa 175 g,score-a,KILO,16.51,1,1.0,NaN,2.89,2020-04-10
+99,"Almendras tostadas con piel EROSKI, bolsa 175 g",Almendras tostadas con piel EROSKI,bolsa 175 g,score-c,KILO,16.51,0,0,NaN,2.89,2020-04-10
+100,"Mayonesa EROSKI, bote 430 ml",Mayonesa EROSKI,bote 430 ml,score-d,LITRO,2.93,1,5.0,NaN,1.26,2020-04-10
+101,"Mejillón en escabeche 8-12 EROSKI, Lata 111 g",Mejillón en escabeche 8-12 EROSKI,Lata 111 g,score-c,KILO,13.42,0,0,NaN,1.49,2020-04-10
+102,"Chorizo sarta natural ALEJANDRO, sarta 200 g",Chorizo sarta natural ALEJANDRO,sarta 200 g,NaN,KILO,17.45,1,5.0,NaN,3.49,2020-04-10
+103,"Longaniza fresca de cerdo EROSKI basic, bandeja 375 g",Longaniza fresca de cerdo EROSKI basic,bandeja 375 g,score-d,KILO,5.06,0,0,NaN,2.00,2020-04-10
+104,"Pistacho tostado sin sal EROSKI, bolsa 175 g",Pistacho tostado sin sal EROSKI,bolsa 175 g,score-a,KILO,17.09,1,5.0,NaN,2.99,2020-04-10
+105,"Patatas lisas Eroski SELEQTIA, bolsa 150 g",Patatas lisas Eroski SELEQTIA,bolsa 150 g,score-c,KILO,9.87,10,4.5,NaN,1.48,2020-04-10
+106,"Alubia blanca EROSKI basic, frasco 400 g",Alubia blanca EROSKI basic,frasco 400 g,score-a,KILO,1.63,2,2.5,NaN,0.65,2020-04-10
+107,"Arroz 3 delicias EROSKI basic, bolsa 1 kg",Arroz 3 delicias EROSKI basic,bolsa 1 kg,score-b,NaN,NaN,2,4.5,NaN,2.32,2020-04-10
+108,"Pechuga de pavo reducida en sal EROSKI Sannia, bandeja 150 g",Pechuga de pavo reducida en sal EROSKI Sannia,bandeja 150 g,score-b,KILO,11.00,1,5.0,NaN,1.65,2020-04-10
+109,"Bebida de almendra EROSKI, brik 1 litro",Bebida de almendra EROSKI,brik 1 litro,score-b,NaN,NaN,0,0,NaN,1.39,2020-04-10
+110,"Chistorra EROSKI MAESTRO, pieza 220 g",Chistorra EROSKI MAESTRO,pieza 220 g,score-e,KILO,8.86,4,5.0,NaN,1.95,2020-04-10
+111,"Pan de molde con cereales SCHAR, paquete 300 g",Pan de molde con cereales SCHAR,paquete 300 g,NaN,KILO,9.30,0,0,NaN,2.79,2020-04-10
+112,"Tomate con aceite de oliva artesano EROSKI, frasco 550 g",Tomate con aceite de oliva artesano EROSKI,frasco 550 g,score-c,KILO,3.07,4,5.0,NaN,1.69,2020-04-10
+113,"Pasa sultana EROSKI, bolsa 250 g",Pasa sultana EROSKI,bolsa 250 g,score-a,KILO,7.28,0,0,NaN,1.82,2020-04-10
+114,"Cabecero de lomo EROSKI, pack 2x62,5 g",Cabecero de lomo EROSKI,pack 2x62,score-d,KILO,16.00,0,0,NaN,2.00,2020-04-10
+115,"Avellanas tostadas EROSKI, bolsa 100 g",Avellanas tostadas EROSKI,bolsa 100 g,score-a,KILO,20.90,0,0,NaN,2.09,2020-04-10
+116,"Hamburguesa mixta EROSKI basic, 6 unid, bandeja 510 g",Hamburguesa mixta EROSKI basic,6 unid,score-d,KILO,6.57,1,3.0,NaN,3.35,2020-04-10
+117,"Yogur desnatado con melocotón EROSKI, pack 4x125 g",Yogur desnatado con melocotón EROSKI,pack 4x125 g,score-a,KILO,1.68,1,5.0,NaN,0.85,2020-04-10
+118,"Palomitas microondas EROSKI, pack 3x100 g",Palomitas microondas EROSKI,pack 3x100 g,score-d,KILO,3.50,2,5.0,NaN,1.06,2020-04-10
+119,"Pechuga de pavo mini EROSKI, pieza 500 g",Pechuga de pavo mini EROSKI,pieza 500 g,score-c,KILO,6.30,0,0,NaN,3.15,2020-04-10
+120,"Pipas gigantes aguasal EROSKI, bolsa 170 g",Pipas gigantes aguasal EROSKI,bolsa 170 g,score-d,KILO,6.76,2,4.5,NaN,1.15,2020-04-10
+121,"Caldo de carne EROSKI, brik 1 litro",Caldo de carne EROSKI,brik 1 litro,score-c,NaN,NaN,0,0,NaN,0.90,2020-04-10
+122,"Natillas de chocolate EROSKI, pack 4x120 g",Natillas de chocolate EROSKI,pack 4x120 g,score-c,KILO,1.50,2,5.0,NaN,0.73,2020-04-10
+123,"Mejillón picante en escabeche 14/18 piezas EROSKI, lata 111 g",Mejillón picante en escabeche 14/18 piezas EROSKI,lata 111 g,score-b,KILO,10.36,0,0,NaN,1.15,2020-04-10
+124,"Salsa de tomate Eroski SELEQTIA, frasco 350 g",Salsa de tomate Eroski SELEQTIA,frasco 350 g,score-c,KILO,4.54,4,5.0,NaN,1.59,2020-04-10
+125,"Queso en polvo EROSKI, bolsa 100 g",Queso en polvo EROSKI,bolsa 100 g,score-d,KILO,9.50,0,0,NaN,0.95,2020-04-10
+126,"Biactive 0% con frutas EROSKI, pack 8x125 g",Biactive 0% con frutas EROSKI,pack 8x125 g,score-a,KILO,2.16,0,0,NaN,2.18,2020-04-10
+127,"Lunch EROSKI, sobre 250 g",Lunch EROSKI,sobre 250 g,score-d,KILO,7.56,1,4.0,NaN,1.89,2020-04-10
+128,"Medallón de Foie Eroski SELEQTIA, blister 100 g",Medallón de Foie Eroski SELEQTIA,blister 100 g,score-e,KILO,69.50,1,5.0,NaN,6.95,2020-04-10
+129,"Hamburguesa de pollo EROSKI, bandeja 360 g",Hamburguesa de pollo EROSKI,bandeja 360 g,score-c,KILO,7.64,0,0,NaN,2.75,2020-04-10
+130,"Pechuga de pavo ahumada EROSKI Maestro, al corte, compra mínima 100 g",Pechuga de pavo ahumada EROSKI Maestro,al corte,score-c,KILO,13.20,6,5.0,NaN,1.32,2020-04-10
+131,"Morcilla de arroz EROSKI, pieza 265 g",Morcilla de arroz EROSKI,pieza 265 g,score-d,KILO,5.47,2,5.0,NaN,1.45,2020-04-10
+132,"Queso en dados para ensalada EROSKI, bolsa 150 g",Queso en dados para ensalada EROSKI,bolsa 150 g,score-e,KILO,8.33,1,5.0,NaN,1.25,2020-04-10
+133,"Mejillón frito en escabeche Eroski SELEQTIA, lata 111 g",Mejillón frito en escabeche Eroski SELEQTIA,lata 111 g,score-c,KILO,28.74,1,5.0,3.55,3.19,2020-04-10
+134,"Yogur natural con azúcar de caña EROSKI, pack 4x125 g",Yogur natural con azúcar de caña EROSKI,pack 4x125 g,score-c,KILO,1.28,2,5.5,NaN,0.64,2020-04-10
+135,"Mix de frutos secos original EROSKI, bolsa 500 g",Mix de frutos secos original EROSKI,bolsa 500 g,score-c,KILO,3.98,2,5.0,NaN,1.99,2020-04-10
+136,"Cuajada natural azucarada EROSKI, pack 4x125 g",Cuajada natural azucarada EROSKI,pack 4x125 g,score-c,KILO,2.48,0,0,NaN,1.24,2020-04-10
+137,"Salchichón ibérico EROSKI, sobre 100 g",Salchichón ibérico EROSKI,sobre 100 g,score-e,KILO,24.00,1,5.0,NaN,2.40,2020-04-10
+138,"Activita sabor de fresa-plátano-coco-piña EROSKI, pack 12x100 ml",Activita sabor de fresa-plátano-coco-piña EROSKI,pack 12x100 ml,score-b,KILO,2.50,0,0,NaN,2.99,2020-04-10
+139,"Lomo cebo campo ibérico 50% raza ibérica EROSKI, sobre 100 g",Lomo cebo campo ibérico 50% raza ibérica EROSKI,sobre 100 g,score-e,KILO,57.00,2,2.5,NaN,5.70,2020-04-10
+140,"Costilla adobada ibérica en trozo EROSKI, bandeja aprox. 400 g",Costilla adobada ibérica en trozo EROSKI,bandeja aprox. 400 g,score-e,KILO,5.50,0,0,NaN,2.20,2020-04-10
+141,"Confit de pato Eroski SELEQTIA, lata 600 g",Confit de pato Eroski SELEQTIA,lata 600 g,score-d,KILO,14.15,3,4.6,NaN,8.49,2020-04-10
+142,"Ketchup EROSKI basic, bocabajo 560 g",Ketchup EROSKI basic,bocabajo 560 g,score-d,KILO,1.36,3,5.0,NaN,0.76,2020-04-10
+143,"Anacardos fritos EROSKI, tarrina 200 g",Anacardos fritos EROSKI,tarrina 200 g,score-c,KILO,16.45,0,0,NaN,3.29,2020-04-10
+144,"Hamburguesa vacuno gruesa B. Meat EROSKI, 2 unid., bandeja 300 g",Hamburguesa vacuno gruesa B. Meat EROSKI,2 unid.,score-d,KILO,8.33,0,0,NaN,2.50,2020-04-10
+145,"Gelatinas surtidas 0% m. g. sin azúcar EROSKI, pack 4x100 g",Gelatinas surtidas 0% m. g. sin azúcar EROSKI,pack 4x100 g,score-b,KILO,1.80,1,5.0,NaN,0.73,2020-04-10
+146,"Salchichas Bockwurst Eroski SELEQTIA, sobre 540 g",Salchichas Bockwurst Eroski SELEQTIA,sobre 540 g,score-e,KILO,7.39,1,5.0,NaN,3.99,2020-04-10
+147,"Flan de huevo 0% m.g. 0% azucares añadidos EROSKI, pack 4x100 g",Flan de huevo 0% m.g. 0% azucares añadidos EROSKI,pack 4x100 g,score-a,KILO,3.50,2,4.5,NaN,1.40,2020-04-10
+148,"Biactive natural EROSKI, pack 4x125 g",Biactive natural EROSKI,pack 4x125 g,score-a,KILO,1.28,3,5.0,NaN,0.62,2020-04-10
+149,"Chorizo fresco EROSKI basic, bandeja 350 g",Chorizo fresco EROSKI basic,bandeja 350 g,score-e,KILO,6.40,3,5.0,NaN,2.24,2020-04-10
+150,"Panceta curada adobada EROSKI, pack 2x100 g",Panceta curada adobada EROSKI,pack 2x100 g,score-e,KILO,22.25,3,5.0,NaN,4.45,2020-04-10
+151,"Calamar en su tinta EROSKI, pack 3x80 g",Calamar en su tinta EROSKI,pack 3x80 g,score-b,KILO,7.25,2,5.0,NaN,1.75,2020-04-10
+152,"Gelatina de fresa EROSKI, pack 4x100 g",Gelatina de fresa EROSKI,pack 4x100 g,score-c,KILO,1.40,0,0,NaN,0.56,2020-04-10
+153,"Bacón ahumado con humo natural sin corteza EROSKI, sobre 150 g",Bacón ahumado con humo natural sin corteza EROSKI,sobre 150 g,score-e,KILO,12.33,1,5.0,NaN,1.85,2020-04-10
+154,"Ciruela pasa sin hueso EROSKI, bolsa 250 g",Ciruela pasa sin hueso EROSKI,bolsa 250 g,score-b,KILO,7.80,0,0,NaN,1.95,2020-04-10
+155,"Fiambre de jamón de pavo EROSKI basic, sobre 250 g",Fiambre de jamón de pavo EROSKI basic,sobre 250 g,score-d,KILO,6.76,0,0,NaN,1.69,2020-04-10
+156,"Bloc de pato 98 % Eroski SELEQTIA, lata 130 g",Bloc de pato 98 % Eroski SELEQTIA,lata 130 g,score-e,KILO,38.38,2,5.0,NaN,4.99,2020-04-10
+157,"Yogur desnatado natural edulcorado EROSKI basic, pack 4x125 g",Yogur desnatado natural edulcorado EROSKI basic,pack 4x125 g,score-a,KILO,1.04,1,5.0,NaN,0.53,2020-04-10
+158,"Surimi rallado EROSKI, sobre 150 g",Surimi rallado EROSKI,sobre 150 g,score-c,KILO,10.60,3,4.6,NaN,1.59,2020-04-10
+159,"Chorizo de Salamanca extra EROSKI Maestro, pack 2x75 g",Chorizo de Salamanca extra EROSKI Maestro,pack 2x75 g,score-e,KILO,19.33,0,0,NaN,2.90,2020-04-10
+160,"Queso de Burgos EROSKI basic, pack 4x62,5 g",Queso de Burgos EROSKI basic,pack 4x62,score-c,KILO,3.92,2,5.0,NaN,0.98,2020-04-10
+161,"Brocheta de pavo EROSKI, 4 uds.., bandeja 360 g",Brocheta de pavo EROSKI,4 uds..,score-b,KILO,9.72,0,0,NaN,3.50,2020-04-10
+162,"Almendras marconas repeladas fritas EROSKI, tarrina 160 g",Almendras marconas repeladas fritas EROSKI,tarrina 160 g,score-a,KILO,21.19,0,0,NaN,3.39,2020-04-10
+163,"Picada de cerdo EROSKI, bandeja 400 g",Picada de cerdo EROSKI,bandeja 400 g,score-c,KILO,6.00,1,5.0,NaN,2.40,2020-04-10
+164,"Yogur griego con fresa EROSKI, pack 4x125 g",Yogur griego con fresa EROSKI,pack 4x125 g,score-c,KILO,2.80,2,5.0,NaN,1.38,2020-04-10
+165,"Salchichón de Salamanca extra EROSKI Maestro, pack 2x75 g",Salchichón de Salamanca extra EROSKI Maestro,pack 2x75 g,score-e,KILO,19.33,0,0,NaN,2.90,2020-04-10
+166,"Pan de molde clásico SCHAR, paquete 300 g",Pan de molde clásico SCHAR,paquete 300 g,NaN,KILO,9.33,0,0,NaN,2.80,2020-04-10
+167,"Yogur natural azucarado EROSKI basic, pack 12x125 g",Yogur natural azucarado EROSKI basic,pack 12x125 g,score-b,KILO,0.96,0,0,NaN,1.43,2020-04-10
+168,"Albondiga de ternera EUSKO LABEL E. SELEQTIA, bandeja 360 g",Albondiga de ternera EUSKO LABEL E. SELEQTIA,bandeja 360 g,score-c,KILO,14.58,1,5.0,NaN,5.25,2020-04-10
+169,"Activita desnatado de fresa EROSKI, pack 6x100 ml",Activita desnatado de fresa EROSKI,pack 6x100 ml,score-a,KILO,2.90,0,0,NaN,1.75,2020-04-10
+170,"Lomo de Sajonia EROSKI , bandeja 300 g",Lomo de Sajonia EROSKI,bandeja 300 g,score-d,KILO,9.83,0,0,NaN,2.95,2020-04-10
+171,"Tomate seco en aceite Eroski SELEQTIA, frasco 250 g",Tomate seco en aceite Eroski SELEQTIA,frasco 250 g,score-a,KILO,9.00,4,5.0,NaN,2.25,2020-04-10
+172,"Morcilla de arroz EROSKI basic, 2 unid. sobre 530 g",Morcilla de arroz EROSKI basic,2 unid. sobre 530 g,score-d,KILO,4.72,0,0,NaN,2.50,2020-04-10
+173,"Fritada de hortalizas EROSKI, lata 350 g",Fritada de hortalizas EROSKI,lata 350 g,score-a,KILO,2.45,4,5.0,NaN,0.98,2020-04-10
+174,"Mejillón en salsa de vieira 14/18 piezas EROSKI, lata 111 g",Mejillón en salsa de vieira 14/18 piezas EROSKI,lata 111 g,score-c,KILO,10.36,0,0,NaN,1.15,2020-04-10
+175,"Foie gras entero de pato Eroski SELEQTIA, blister 100 g",Foie gras entero de pato Eroski SELEQTIA,blister 100 g,score-e,KILO,85.50,4,4.7,NaN,8.55,2020-04-10
+176,"Albondigas en salsa EROSKI, lata 415 g",Albondigas en salsa EROSKI,lata 415 g,score-b,KILO,2.46,0,0,NaN,1.02,2020-04-10
+177,"Hamburguesa ternera-ajo E. LABEL SELEQTIA, 4 unid, bandeja 480 g",Hamburguesa ternera-ajo E. LABEL SELEQTIA,4 unid,score-c,KILO,12.92,2,5.0,NaN,6.20,2020-04-10
+178,"Biactive 0% con mango-frutos rojos EROSKI, pack 4x125 g",Biactive 0% con mango-frutos rojos EROSKI,pack 4x125 g,score-a,KILO,2.08,0,0,NaN,1.04,2020-04-10
+179,"Bonito en escabeche EROSKI, lata 111 g",Bonito en escabeche EROSKI,lata 111 g,score-a,KILO,17.93,0,0,NaN,1.99,2020-04-10
+180,"Pan de molde cereales-semillas sin gluten EROSKI, paquete 350 g",Pan de molde cereales-semillas sin gluten EROSKI,paquete 350 g,score-b,KILO,8.71,0,0,NaN,3.05,2020-04-10
+181,"Salchichas Bratwurst Eroski SELEQTIA, sobre 540 g",Salchichas Bratwurst Eroski SELEQTIA,sobre 540 g,score-e,KILO,7.39,2,5.0,NaN,3.99,2020-04-10
+182,"Cacahuetes fritos con miel EROSKI, bolsa 100 g",Cacahuetes fritos con miel EROSKI,bolsa 100 g,score-c,KILO,10.60,0,0,NaN,1.06,2020-04-10
+183,"Mortadela EROSKI basic, sobre 250 g",Mortadela EROSKI basic,sobre 250 g,score-d,KILO,3.60,0,0,NaN,0.90,2020-04-10
+184,"Medallón de pechuga de pollo al pimentón EROSKI, bandeja aprox. 600 g",Medallón de pechuga de pollo al pimentón EROSKI,bandeja aprox. 600 g,score-b,KILO,7.95,2,5.0,NaN,4.77,2020-04-10
+185,"Paté de Foie de pato EROSKI, blister 100 g",Paté de Foie de pato EROSKI,blister 100 g,score-e,KILO,31.50,0,0,NaN,3.15,2020-04-10
+186,"Caldo de verduras EROSKI, brik 1 litro",Caldo de verduras EROSKI,brik 1 litro,score-c,NaN,NaN,0,0,NaN,0.95,2020-04-10
+187,"Chorizo cular extra EROSKI, al corte, compra mínima 100 g",Chorizo cular extra EROSKI,al corte,score-e,KILO,19.40,2,4.5,NaN,1.94,2020-04-10
+188,"Callos con chorizo EROSKI, lata 380 g",Callos con chorizo EROSKI,lata 380 g,score-c,KILO,4.47,0,0,NaN,1.70,2020-04-10
+189,"Arroz con leche Eroski SELEQTIA, tarro de barro 140 g",Arroz con leche Eroski SELEQTIA,tarro de barro 140 g,score-c,KILO,6.43,2,5.0,NaN,0.90,2020-04-10
+190,"Estofado de pavo al ajillo EROSKI, bandeja aprox. 400 g",Estofado de pavo al ajillo EROSKI,bandeja aprox. 400 g,score-b,KILO,6.00,0,0,NaN,2.40,2020-04-10
+191,"Biactive con frutas del bosque EROSKI, pack 4x125 g",Biactive con frutas del bosque EROSKI,pack 4x125 g,score-b,KILO,2.08,1,5.0,NaN,1.04,2020-04-10
+192,"Parrillada con gambas EROSKI, bolsa 500 g",Parrillada con gambas EROSKI,bolsa 500 g,score-a,KILO,5.18,2,5.0,NaN,2.59,2020-04-10
+193,"Lomo embuchado EROSKI, al corte, compra mínima 100 g",Lomo embuchado EROSKI,al corte,score-d,KILO,23.10,0,0,NaN,2.31,2020-04-10
+194,"Fabada a la Asturiana EROSKI, lata 435 g",Fabada a la Asturiana EROSKI,lata 435 g,score-b,KILO,2.41,2,5.0,NaN,1.05,2020-04-10
+195,"Salchichas Bratwurst EROSKI, sobre 240 g",Salchichas Bratwurst EROSKI,sobre 240 g,score-d,KILO,6.04,0,0,NaN,1.45,2020-04-10
+196,"Chorizo picante extra EROSKI basic, sobre 200 g",Chorizo picante extra EROSKI basic,sobre 200 g,score-e,KILO,7.10,0,0,NaN,1.42,2020-04-10
+197,"Salsa boloñesa EROSKI, frasco 350 g",Salsa boloñesa EROSKI,frasco 350 g,score-b,KILO,3.54,0,0,NaN,1.24,2020-04-10
+198,"Queso fundido light EROSKI, lonchas, paquete 300 g",Queso fundido light EROSKI,lonchas,score-c,KILO,4.93,0,0,NaN,1.48,2020-04-10
+199,"Sardinilla picante EROSKI, lata 90 g",Sardinilla picante EROSKI,lata 90 g,score-c,KILO,9.78,0,0,NaN,0.88,2020-04-10
+200,"San jacobo de pollo EROSKI , 4 unid., bandeja 360 g",San jacobo de pollo EROSKI,4 unid.,score-d,KILO,8.03,1,5.0,NaN,2.89,2020-04-10
+201,"Pulpo cocido troceado EROSKI, bandeja 175 g",Pulpo cocido troceado EROSKI,bandeja 175 g,score-a,KILO,43.71,0,0,NaN,7.65,2020-04-10
+202,"Caldo de pescado EROSKI, brik 1 litro",Caldo de pescado EROSKI,brik 1 litro,score-c,NaN,NaN,0,0,NaN,1.19,2020-04-10
+203,"Pincho de pollo al curry EROSKI, bandeja 360 g",Pincho de pollo al curry EROSKI,bandeja 360 g,score-b,KILO,9.03,0,0,NaN,3.25,2020-04-10
+204,"Yogur de fresa cremoso 0% EROSKI, pack 4x125 g",Yogur de fresa cremoso 0% EROSKI,pack 4x125 g,score-a,KILO,2.16,0,0,NaN,1.07,2020-04-10
+205,"Magdalenas sin gluten EROSKI, 6 unid., bolsa 180 g",Magdalenas sin gluten EROSKI,6 unid.,score-d,KILO,11.06,0,0,NaN,1.99,2020-04-10
+206,"Lomo cebo campo 50% raza ibérica EROSKI, al corte, compra mínima 100 g",Lomo cebo campo 50% raza ibérica EROSKI,al corte,score-e,KILO,53.90,2,4.5,NaN,5.39,2020-04-10
+207,"Chuleta de Sajonia EROSKI , bandeja aprox. 500 g",Chuleta de Sajonia EROSKI,bandeja aprox. 500 g,score-d,KILO,9.26,1,5.0,NaN,4.63,2020-04-10
+208,"Chistorra EROSKI, bandeja 280 g",Chistorra EROSKI,bandeja 280 g,score-e,KILO,9.82,1,5.0,NaN,2.75,2020-04-10
+209,"Longaniza mixta de pollo-cerdo EROSKI, bandeja 360 g",Longaniza mixta de pollo-cerdo EROSKI,bandeja 360 g,score-d,KILO,7.64,1,5.0,NaN,2.75,2020-04-10
+210,"Atún en escabeche EROSKI, lata 900 g",Atún en escabeche EROSKI,lata 900 g,score-c,KILO,6.21,1,3.0,NaN,5.59,2020-04-10
+211,"Helado de chocolate en trozos EROSKI, tarrina 500 g",Helado de chocolate en trozos EROSKI,tarrina 500 g,score-d,KILO,4.18,0,0,NaN,2.09,2020-04-10
+212,"Pulpo cocido troceado Eroski SELEQTIA, bandeja 200 g",Pulpo cocido troceado Eroski SELEQTIA,bandeja 200 g,score-a,KILO,47.75,0,0,NaN,9.55,2020-04-10
+213,"Salchichas de pollo EROSKI, sobre 200 g",Salchichas de pollo EROSKI,sobre 200 g,score-d,KILO,3.20,1,5.0,NaN,0.64,2020-04-10
+214,"Mix de frutos secos especial EROSKI, bolsa 200 g",Mix de frutos secos especial EROSKI,bolsa 200 g,score-b,KILO,11.45,1,5.0,NaN,2.29,2020-04-10
+215,"Chorizo picante ALEJANDRO, sarta 200 g",Chorizo picante ALEJANDRO,sarta 200 g,NaN,KILO,17.45,0,0,NaN,3.49,2020-04-10
+216,"Lomo de cerdo al ajillo fileteado EROSKI , bandeja 300 g",Lomo de cerdo al ajillo fileteado EROSKI,bandeja 300 g,score-d,KILO,13.30,0,0,NaN,3.99,2020-04-10
+217,"Bolsitas 100% fresa-plátano sin azúcar EROSKI, pack 4x100 g",Bolsitas 100% fresa-plátano sin azúcar EROSKI,pack 4x100 g,score-a,KILO,7.00,0,0,NaN,2.80,2020-04-10
+218,"Pan de molde sin gluten EROSKI, paquete 350 g",Pan de molde sin gluten EROSKI,paquete 350 g,score-b,KILO,8.00,2,5.0,NaN,2.80,2020-04-10
+219,"Salchichas Baviera EROSKI, sobre 330 g",Salchichas Baviera EROSKI,sobre 330 g,score-d,KILO,6.04,0,0,NaN,1.45,2020-04-10
+220,"Salchichón ibérico cular extra EROSKI, al corte, compra mínima 100 g",Salchichón ibérico cular extra EROSKI,al corte,score-e,KILO,20.00,3,4.0,NaN,2.00,2020-04-10
+221,"Lactozumo tropical EROSKI, pack 6x200 ml",Lactozumo tropical EROSKI,pack 6x200 ml,score-b,LITRO,0.75,0,0,NaN,0.87,2020-04-10
+222,"Caldo de cocido EROSKI, brik 1 litro",Caldo de cocido EROSKI,brik 1 litro,score-c,NaN,NaN,1,4.0,NaN,0.95,2020-04-10
+223,"Anacardo tostado sin sal EROSKI, bolsa 75 g",Anacardo tostado sin sal EROSKI,bolsa 75 g,score-c,KILO,18.53,0,0,NaN,1.39,2020-04-10
+224,"Mortadela con aceitunas EROSKI basic, sobre 250 g",Mortadela con aceitunas EROSKI basic,sobre 250 g,score-d,KILO,3.80,0,0,NaN,0.95,2020-04-10
+225,"Edulcorante líquido stevia EROSKI Sannia, frasco 125 ml",Edulcorante líquido stevia EROSKI Sannia,frasco 125 ml,NaN,LITRO,17.52,0,0,NaN,2.19,2020-04-10
+226,"Mermelada de higo Eroski SELEQTIA, frasco 230 g",Mermelada de higo Eroski SELEQTIA,frasco 230 g,score-c,KILO,5.91,2,5.0,NaN,1.36,2020-04-10
+227,"Sorbete de limón EROSKI, tarrina 570 g",Sorbete de limón EROSKI,tarrina 570 g,score-c,KILO,3.32,0,0,NaN,1.89,2020-04-10
+228,"Queso fundido con cheddar EROSKI, lonchas, paquete 200 g",Queso fundido con cheddar EROSKI,lonchas,score-e,KILO,4.90,1,5.0,NaN,0.98,2020-04-10
+229,"Salchichas super bocata EROSKI, sobre 330 g",Salchichas super bocata EROSKI,sobre 330 g,score-d,KILO,4.55,1,5.0,NaN,1.50,2020-04-10
+230,"Petit de fresa EROSKI, pack 4x100 g",Petit de fresa EROSKI,pack 4x100 g,score-b,KILO,1.60,0,0,NaN,0.65,2020-04-10
+231,"Salami extra EROSKI, sobre 125 g",Salami extra EROSKI,sobre 125 g,score-e,KILO,11.20,0,0,NaN,1.40,2020-04-10
+232,"Queso fundido EROSKI basic, lonchas, sobre 300 g",Queso fundido EROSKI basic,lonchas,score-d,KILO,3.97,1,5.0,NaN,1.19,2020-04-10
+233,"Mejillón en escabeche 14/18 piezas EROSKI, lata 111 g",Mejillón en escabeche 14/18 piezas EROSKI,lata 111 g,score-c,KILO,10.36,0,0,NaN,1.15,2020-04-10
+234,"Pipas gigantes con sal EROSKI, bolsa 170 g",Pipas gigantes con sal EROSKI,bolsa 170 g,score-d,KILO,6.76,0,0,NaN,1.15,2020-04-10
+235,"Reductor  colesterol natural azucarado EROSKI Sannia, 6x100 ml",Reductor  colesterol natural azucarado EROSKI Sannia,6x100 ml,score-b,KILO,3.80,1,5.0,NaN,2.29,2020-04-10
+236,"Salchichón extra con pimienta EROSKI, sobre 200 g",Salchichón extra con pimienta EROSKI,sobre 200 g,score-e,KILO,16.00,0,0,NaN,3.20,2020-04-10
+237,"Mini bombón de almendras sin azúcar EROSKI, pack 6x50 ml",Mini bombón de almendras sin azúcar EROSKI,pack 6x50 ml,score-d,LITRO,9.50,0,0,NaN,2.85,2020-04-10
+238,"Galleta María SCHÄR, paquete 200 g",Galleta María SCHÄR,paquete 200 g,NaN,KILO,9.95,0,0,NaN,1.99,2020-04-10
+239,"Bolsita 100% multifrutas EROSKI, pack 4x100 g",Bolsita 100% multifrutas EROSKI,pack 4x100 g,score-a,KILO,7.00,0,0,NaN,2.80,2020-04-10
+240,"Salchichas Viena EROSKI, sobre 200 g",Salchichas Viena EROSKI,sobre 200 g,score-d,KILO,3.05,0,0,NaN,0.61,2020-04-10
+241,"Sardinilla en salsa de tomate EROSKI, lata 90 g",Sardinilla en salsa de tomate EROSKI,lata 90 g,score-d,KILO,9.78,0,0,NaN,0.88,2020-04-10
+242,"Mermelada con fresitas de Huelva Eroski SELEQTIA, frasco 230 g",Mermelada con fresitas de Huelva Eroski SELEQTIA,frasco 230 g,score-c,KILO,5.91,2,5.0,NaN,1.36,2020-04-10
+243,"Chorizo ibérico cular extra EROSKI, al corte, compra mínima 100 g",Chorizo ibérico cular extra EROSKI,al corte,score-e,KILO,20.00,2,4.0,NaN,2.00,2020-04-10
+244,"Helado sabor vainilla EROSKI, tarrina 490 g",Helado sabor vainilla EROSKI,tarrina 490 g,score-c,KILO,2.76,0,0,NaN,1.35,2020-04-10
+245,"Bioactive 0% con piña EROSKI, pack 4x125 g",Bioactive 0% con piña EROSKI,pack 4x125 g,score-a,KILO,2.08,1,5.0,NaN,1.04,2020-04-10
+246,"Edulcorante stevia EROSKI, frasco 200 g",Edulcorante stevia EROSKI,frasco 200 g,NaN,KILO,14.80,0,0,NaN,2.96,2020-04-10
+247,"Cacahuetes repelados fritos EROSKI, bolsa 175 g",Cacahuetes repelados fritos EROSKI,bolsa 175 g,score-c,KILO,4.06,0,0,NaN,0.71,2020-04-10
+248,"Preparado para cocido al vacío EROSKI, al peso aprox. 300 g",Preparado para cocido al vacío EROSKI,al peso aprox. 300 g,score-e,KILO,9.97,0,0,NaN,2.99,2020-04-10
+249,"Pipas de girasol aguasal EROSKI basic, bolsa 200 g",Pipas de girasol aguasal EROSKI basic,bolsa 200 g,score-d,KILO,3.45,0,0,NaN,0.69,2020-04-10
+250,"Chorizo cular ibérico EROSKI, pieza 500 g",Chorizo cular ibérico EROSKI,pieza 500 g,score-e,KILO,15.30,0,0,NaN,7.65,2020-04-10
+251,"Jamón de pavo mini EROSKI, pieza 500 g",Jamón de pavo mini EROSKI,pieza 500 g,score-d,KILO,4.90,0,0,NaN,2.45,2020-04-10
+252,"Pulpo a la gallega EROSKI, bandeja 200 g",Pulpo a la gallega EROSKI,bandeja 200 g,score-b,KILO,40.75,0,0,NaN,8.15,2020-04-10
+253,"Foie Entier Micuit Eroski SELEQTIA, blister 80 g",Foie Entier Micuit Eroski SELEQTIA,blister 80 g,score-e,KILO,98.63,0,0,NaN,7.89,2020-04-10
+254,"Yogur desnatado de limón EROSKI basic, pack 4x125 g",Yogur desnatado de limón EROSKI basic,pack 4x125 g,score-a,KILO,1.12,0,0,NaN,0.56,2020-04-10
+255,"Fiambre de pechuga de pavo EROSKI basic, al corte, compra mínima 100 g",Fiambre de pechuga de pavo EROSKI basic,al corte,score-d,KILO,9.00,0,0,NaN,0.90,2020-04-10
+256,"Arroz 3 delicias-marisco EROSKI, bolsa 500 g",Arroz 3 delicias-marisco EROSKI,bolsa 500 g,score-b,KILO,3.10,1,5.0,NaN,1.55,2020-04-10
+257,"Gelatina de limón EROSKI, pack 4x100 g",Gelatina de limón EROSKI,pack 4x100 g,score-c,KILO,1.40,1,5.0,NaN,0.56,2020-04-10
+258,"Pipas de calabaza tostadas EROSKI, bolsa 200 g",Pipas de calabaza tostadas EROSKI,bolsa 200 g,score-e,KILO,6.20,1,1.0,NaN,1.24,2020-04-10
+259,"Activitas sabores infantil EROSKI, pack 6x100 g",Activitas sabores infantil EROSKI,pack 6x100 g,score-b,KILO,2.80,0,0,NaN,1.69,2020-04-10
+260,"Pechuga de pavo reducida en sal EROSKI Sannia, pieza 500 g",Pechuga de pavo reducida en sal EROSKI Sannia,pieza 500 g,score-b,KILO,7.30,0,0,NaN,3.65,2020-04-10
+261,"Caramelos masticables SUGUS, bolsa 150 g",Caramelos masticables SUGUS,bolsa 150 g,NaN,KILO,13.27,0,0,NaN,1.99,2020-04-10
+262,"Chicharricos EROSKI, bolsa 120 g",Chicharricos EROSKI,bolsa 120 g,score-e,KILO,15.75,0,0,NaN,1.89,2020-04-10
+263,"Salsa alioli EROSKI, bocabajo 300 g",Salsa alioli EROSKI,bocabajo 300 g,score-e,LITRO,3.50,0,0,NaN,1.05,2020-04-10
+264,"Tira de costilla cerdo sabor barbacoa EROSKI, sobre aprox. 500 g",Tira de costilla cerdo sabor barbacoa EROSKI,sobre aprox. 500 g,score-d,KILO,6.70,0,0,NaN,3.35,2020-04-10
+265,"Tortitas de  maíz con quinoa EROSKI, paquete 130 g",Tortitas de  maíz con quinoa EROSKI,paquete 130 g,score-a,KILO,10.54,2,5.0,NaN,1.37,2020-04-10
+266,"Chorizo criollo EROSKI, bandeja aprox. 480 g",Chorizo criollo EROSKI,bandeja aprox. 480 g,score-d,KILO,7.75,0,0,NaN,3.72,2020-04-10
+267,"Mayonesa EROSKI, frasco 225 ml",Mayonesa EROSKI,frasco 225 ml,score-d,LITRO,2.76,1,4.0,NaN,0.62,2020-04-10
+268,"Alas de pollo adobadas tradicional EROSKI, bandeja 500 g",Alas de pollo adobadas tradicional EROSKI,bandeja 500 g,score-b,KILO,6.78,0,0,NaN,3.39,2020-04-10
+269,"Lactozumo tropical EROSKI, brik 1 litro",Lactozumo tropical EROSKI,brik 1 litro,score-b,NaN,NaN,0,0,NaN,0.64,2020-04-10
+270,"Paleta cocida lonchas finas  EROSKI basic, bandeja 250 g",Paleta cocida lonchas finas  EROSKI basic,bandeja 250 g,score-c,KILO,8.20,0,0,NaN,2.05,2020-04-10
+271,"Paella de marisco EROSKI, bolsa 500 g",Paella de marisco EROSKI,bolsa 500 g,score-b,KILO,4.90,0,0,NaN,2.45,2020-04-10
+272,"Nackis de maíz sin gluten BICENTURY, paquete 130 g",Nackis de maíz sin gluten BICENTURY,paquete 130 g,NaN,KILO,11.23,0,0,NaN,1.46,2020-04-10
+273,"Salsa carbonara EROSKI, frasco 350 g",Salsa carbonara EROSKI,frasco 350 g,score-c,KILO,3.54,0,0,NaN,1.24,2020-04-10
+274,"Natillas con caramelo Eroski SELEQTIA, tarro de barro 140 g",Natillas con caramelo Eroski SELEQTIA,tarro de barro 140 g,score-c,KILO,7.07,1,5.0,NaN,0.99,2020-04-10
+275,"Bonito en escabeche EROSKI, lata 266 g",Bonito en escabeche EROSKI,lata 266 g,score-a,KILO,17.26,0,0,NaN,4.59,2020-04-10
+276,"Bolsita 100% manzana-plátano EROSKI, pack 4x100 g",Bolsita 100% manzana-plátano EROSKI,pack 4x100 g,score-a,KILO,7.00,0,0,NaN,2.80,2020-04-10
+277,"Hamburguesa de pollo rústico EROSKI Natur, 2 uds., bandeja 240 g",Hamburguesa de pollo rústico EROSKI Natur,2 uds.,score-d,KILO,9.38,0,0,NaN,2.25,2020-04-10
+278,"Alubias con verduras EROSKI, frasco 400 g",Alubias con verduras EROSKI,frasco 400 g,NaN,KILO,2.55,0,0,NaN,1.02,2020-04-10
+279,"Jamón cocido reducido en sal EROSKI Sannia, bandeja 150 g",Jamón cocido reducido en sal EROSKI Sannia,bandeja 150 g,score-b,KILO,13.27,0,0,NaN,1.99,2020-04-10
+280,"Tira costilla de cerdo sabor finas hierbas EROSKI, sobre aprox. 500 g",Tira costilla de cerdo sabor finas hierbas EROSKI,sobre aprox. 500 g,score-d,KILO,6.70,0,0,NaN,3.35,2020-04-10
+281,"Yogur natural de leche de oveja Eroski SELEQTIA, pack 2x115 g",Yogur natural de leche de oveja Eroski SELEQTIA,pack 2x115 g,score-c,KILO,6.43,1,5.0,NaN,1.48,2020-04-10
+282,"Hamburguesa vacuno-cerdo B. Meat EROSKI, 2 uds., bandeja 300 g",Hamburguesa vacuno-cerdo B. Meat EROSKI,2 uds.,score-d,KILO,6.67,0,0,NaN,2.00,2020-04-10
+283,"Garbanzos con espinacas EROSKI, frasco 370 g",Garbanzos con espinacas EROSKI,frasco 370 g,NaN,KILO,2.76,0,0,NaN,1.02,2020-04-10
+284,"Zamburiña en salsa de vieira EROSKI, lata 115 g",Zamburiña en salsa de vieira EROSKI,lata 115 g,score-a,KILO,14.17,1,5.0,NaN,1.63,2020-04-10
+285,"Almendra tostada sin sal EROSKI, bolsa 75 g",Almendra tostada sin sal EROSKI,bolsa 75 g,score-a,KILO,19.87,0,0,NaN,1.49,2020-04-10
+286,"Batido de vainilla EROSKI, pack 6x200 ml",Batido de vainilla EROSKI,pack 6x200 ml,score-b,LITRO,0.90,0,0,NaN,1.09,2020-04-10
+287,"Pan rallado sin gluten EROSKI, paquete 200 g",Pan rallado sin gluten EROSKI,paquete 200 g,score-d,KILO,9.95,0,0,NaN,1.99,2020-04-10
+288,"Tortilla fresca de patata con cebolla EROSKI, 1 ud., 200 g",Tortilla fresca de patata con cebolla EROSKI,1 ud.,score-c,KILO,4.95,0,0,NaN,0.99,2020-04-10
+289,"Caramelo sin azúcar de menta EROSKI, bolsa 90 g",Caramelo sin azúcar de menta EROSKI,bolsa 90 g,score-b,KILO,8.67,0,0,NaN,0.78,2020-04-10
+290,"Salchichón cular ibérico EROSKI, pieza 500 g",Salchichón cular ibérico EROSKI,pieza 500 g,score-e,KILO,15.30,0,0,NaN,7.65,2020-04-10
+291,"Maíz frito gigante EROSKI, bolsa 170 g",Maíz frito gigante EROSKI,bolsa 170 g,score-c,KILO,5.94,0,0,NaN,1.01,2020-04-10
+292,"Pechuga pavo reducida sal EROSKI Sannia, al corte, compra mínima 100 g",Pechuga pavo reducida sal EROSKI Sannia,al corte,score-b,KILO,9.80,0,0,NaN,0.98,2020-04-10
+293,"Pannacotta caramelo EROSKI, pack 4x90g",Pannacotta caramelo EROSKI,pack 4x90g,score-c,KILO,3.22,1,5.0,NaN,1.14,2020-04-10
+294,"Cookies con pepitas choco sin gluten EROSKI, paquete 150 g",Cookies con pepitas choco sin gluten EROSKI,paquete 150 g,score-e,KILO,17.93,0,0,NaN,2.69,2020-04-10
+295,"Petit Fruits con fresa EROSKI, pack 6x55 g",Petit Fruits con fresa EROSKI,pack 6x55 g,score-b,KILO,2.18,0,0,NaN,0.70,2020-04-10
+296,"Queso fresco sin sal EROSKI, pack 4x62,5 g",Queso fresco sin sal EROSKI,pack 4x62,score-c,KILO,4.52,1,5.0,NaN,1.13,2020-04-10
+297,"Mini polo de naranja-limón EROSKI, 8 uds., caja 480 g",Mini polo de naranja-limón EROSKI,8 uds.,score-c,KILO,3.04,0,0,NaN,1.46,2020-04-10
+298,"Natillas de huevo Eroski SELEQTIA, tarro de barro 140 g",Natillas de huevo Eroski SELEQTIA,tarro de barro 140 g,score-c,KILO,7.07,2,5.0,NaN,0.99,2020-04-10
+299,"Salsa ligera EROSKI Sannia, frasco 450 ml",Salsa ligera EROSKI Sannia,frasco 450 ml,score-c,LITRO,2.13,0,0,NaN,0.96,2020-04-10
+300,"Paté de pato EROSKI Maestro, blister 75 g",Paté de pato EROSKI Maestro,blister 75 g,score-e,KILO,22.00,0,0,NaN,1.65,2020-04-10
+301,"Gazpacho original EROSKI, brik 330 ml",Gazpacho original EROSKI,brik 330 ml,score-a,LITRO,2.58,1,5.0,NaN,0.85,2020-04-10
+302,"Garbanzos con verduras EROSKI, frasco 400 g",Garbanzos con verduras EROSKI,frasco 400 g,NaN,KILO,2.55,1,5.0,NaN,1.02,2020-04-10
+303,"Cookies triple de choco sin gluten EROSKI, paquete 150 g",Cookies triple de choco sin gluten EROSKI,paquete 150 g,score-e,KILO,19.93,0,0,NaN,2.99,2020-04-10
+304,"Sorbete de mandarina EROSKI, tarrina 615 g",Sorbete de mandarina EROSKI,tarrina 615 g,score-c,KILO,3.33,0,0,NaN,2.05,2020-04-10
+305,"Almendras larguetas con piel tostada-salada EROSKI, bolsa 185 g",Almendras larguetas con piel tostada-salada EROSKI,bolsa 185 g,score-c,KILO,18.32,0,0,NaN,3.39,2020-04-10
+306,"Bombón almendrado relleno de chocolate EROSKI, pack 6x75 ml",Bombón almendrado relleno de chocolate EROSKI,pack 6x75 ml,score-e,LITRO,4.56,0,0,NaN,2.05,2020-04-10
+307,"Yogur natural de leche de cabra Eroski SELEQTIA, pack 2x115 g",Yogur natural de leche de cabra Eroski SELEQTIA,pack 2x115 g,score-b,KILO,7.65,0,0,NaN,1.75,2020-04-10
+308,"Batido de fresa EROSKI, pack 6x200 ml",Batido de fresa EROSKI,pack 6x200 ml,score-b,LITRO,0.90,0,0,NaN,1.09,2020-04-10
+309,"Salsa César EROSKI, bote 300 g",Salsa César EROSKI,bote 300 g,score-d,KILO,4.07,0,0,NaN,1.22,2020-04-10
+310,"Pechuga de pavo EROSKI, pack 2x150 g",Pechuga de pavo EROSKI,pack 2x150 g,score-c,KILO,9.97,0,0,NaN,2.99,2020-04-10
+311,"Caldo para paella EROSKI, brik 1 litro",Caldo para paella EROSKI,brik 1 litro,score-c,NaN,NaN,0,0,NaN,1.95,2020-04-10
+312,"Salchichón de Salamanca extra EROSKI, al corte, compra mínima 100 g",Salchichón de Salamanca extra EROSKI,al corte,score-e,KILO,14.90,0,0,1.72,1.49,2020-04-10
+313,"Hamburguesa ternera XXL E. LABEL SELEQTIA, 2 unid, bandeja 480 g",Hamburguesa ternera XXL E. LABEL SELEQTIA,2 unid,score-c,KILO,12.71,3,5.0,NaN,6.10,2020-04-10
+314,"Palomitinas de maíz sabor mantequilla EROSKI, bolsa 55 g",Palomitinas de maíz sabor mantequilla EROSKI,bolsa 55 g,score-c,KILO,11.09,0,0,NaN,0.61,2020-04-10
+315,"Jamón cocido extra EROSKI MAESTRO, al corte, compra mínima 100 g",Jamón cocido extra EROSKI MAESTRO,al corte,score-c,KILO,10.20,4,4.7,NaN,1.02,2020-04-10
+316,"Cacahuetes fritos EROSKI, tarrina 200 g",Cacahuetes fritos EROSKI,tarrina 200 g,score-d,KILO,5.90,0,0,NaN,1.18,2020-04-10
+317,"Guspitos de maíz EROSKI, bolsa 80 g",Guspitos de maíz EROSKI,bolsa 80 g,score-c,KILO,9.88,1,5.0,NaN,0.79,2020-04-10
+318,"Magro de cerdo adobado fileteado EROSKI , bandeja 300 g",Magro de cerdo adobado fileteado EROSKI,bandeja 300 g,score-d,KILO,7.33,0,0,NaN,2.20,2020-04-10
+319,"Lactozumo tropical EROSKI, pack 3x330 ml",Lactozumo tropical EROSKI,pack 3x330 ml,score-b,LITRO,0.70,0,0,NaN,0.69,2020-04-10
+320,"Pechuga de pavo cocida-ahumada EROSKI Maestro, bandeja 125 g",Pechuga de pavo cocida-ahumada EROSKI Maestro,bandeja 125 g,score-d,KILO,17.20,1,5.0,NaN,2.15,2020-04-10
+321,"Maxi choco SCHÄR, paquete 250 g",Maxi choco SCHÄR,paquete 250 g,NaN,KILO,11.80,0,0,NaN,2.95,2020-04-10
+322,"Panceta curada adobada EROSKI, al corte, compra mínima 100 g",Panceta curada adobada EROSKI,al corte,score-e,KILO,16.80,0,0,NaN,1.68,2020-04-10
+323,"Preparado de cacao a la taza EROSKI, paquete 400 g",Preparado de cacao a la taza EROSKI,paquete 400 g,score-b,KILO,3.35,0,0,NaN,1.34,2020-04-10
+324,"Pan Payés SCHAR, paquete 240 g",Pan Payés SCHAR,paquete 240 g,NaN,KILO,12.46,0,0,NaN,2.99,2020-04-10
+325,"Tomate frito bajo en sal-sin azúcar EROSKI Sannia, frasco 300 g",Tomate frito bajo en sal-sin azúcar EROSKI Sannia,frasco 300 g,score-a,KILO,1.80,2,5.0,NaN,0.54,2020-04-10
+326,"Crema catalana EROSKI, tarrina 150 g",Crema catalana EROSKI,tarrina 150 g,score-c,KILO,4.97,0,0,NaN,0.77,2020-04-10
+327,"Salsa ligera EROSKI Sannia, bote 430 ml",Salsa ligera EROSKI Sannia,bote 430 ml,score-c,LITRO,2.72,0,0,NaN,1.17,2020-04-10
+328,"Chorizo pincho EROSKI, bandeja 220 g",Chorizo pincho EROSKI,bandeja 220 g,score-e,KILO,11.14,0,0,NaN,2.45,2020-04-10
+329,"Chistorra al natural ALEJANDRO, pieza 200 g",Chistorra al natural ALEJANDRO,pieza 200 g,NaN,KILO,12.45,0,0,NaN,2.49,2020-04-10
+330,"Salchichas Frankfurt EROSKI basic, sobre 170 g",Salchichas Frankfurt EROSKI basic,sobre 170 g,score-d,KILO,2.63,0,0,NaN,0.42,2020-04-10
+331,"Cabecero de lomo EROSKI, al corte, compra mínima 100 g",Cabecero de lomo EROSKI,al corte,score-d,KILO,17.70,0,0,NaN,1.77,2020-04-10
+332,"Soluble cacao EROSKI, bote 500 g",Soluble cacao EROSKI,bote 500 g,score-b,KILO,4.10,0,0,NaN,2.05,2020-04-10
+333,"Crema de verduras de la huerta EROSKI, brik 500 g",Crema de verduras de la huerta EROSKI,brik 500 g,score-c,KILO,2.28,0,0,NaN,1.14,2020-04-10
+334,"Carne de membrillo con nueces Eroski SELEQTIA, tarrina 200 g",Carne de membrillo con nueces Eroski SELEQTIA,tarrina 200 g,score-c,KILO,9.95,0,0,NaN,1.99,2020-04-10
+335,"Lomo cebo campo ibérico 50% raza ibérica EROSKI, taco 300 g",Lomo cebo campo ibérico 50% raza ibérica EROSKI,taco 300 g,score-e,KILO,40.83,0,0,NaN,12.25,2020-04-10
+336,"Bebida de soja-chocolate EROSKI, brik 1 litro",Bebida de soja-chocolate EROSKI,brik 1 litro,score-b,NaN,NaN,0,0,NaN,1.09,2020-04-10
+337,"Sardinilla en escabeche EROSKI, lata 90 g",Sardinilla en escabeche EROSKI,lata 90 g,score-c,KILO,9.78,0,0,NaN,0.88,2020-04-10
+338,"Jamón de pato curado Eroski SELEQTIA, sobre 50 g",Jamón de pato curado Eroski SELEQTIA,sobre 50 g,score-e,KILO,63.00,1,5.0,NaN,3.15,2020-04-10
+339,"Chorizo Pamplona-Salchichón EROSKI, pack 2x90 g",Chorizo Pamplona-Salchichón EROSKI,pack 2x90 g,score-e,KILO,10.83,0,0,NaN,1.95,2020-04-10
+340,"Lomo bellota 100% ibérico SELEQTIA, al corte, compra mínima 100 g",Lomo bellota 100% ibérico SELEQTIA,al corte,score-e,KILO,72.50,3,5.0,NaN,7.25,2020-04-10
+341,"Caramelo de miel-limón sin azúcar EROSKI, bolsa 90 g",Caramelo de miel-limón sin azúcar EROSKI,bolsa 90 g,score-c,KILO,8.67,0,0,NaN,0.78,2020-04-10
+342,"Fuet extra EROSKI basic, pack 2x170 g",Fuet extra EROSKI basic,pack 2x170 g,score-e,KILO,8.71,0,0,NaN,2.96,2020-04-10
+343,"Caramelos surtidos EROSKI, bolsa 150 g",Caramelos surtidos EROSKI,bolsa 150 g,score-d,KILO,6.27,0,0,NaN,0.94,2020-04-10
+344,"Baguette SCHÄR, pack 2x175 g",Baguette SCHÄR,pack 2x175 g,NaN,KILO,8.54,0,0,NaN,2.99,2020-04-10
+345,"Chocolate a la taza EROSKI, brik 1 litro",Chocolate a la taza EROSKI,brik 1 litro,score-c,NaN,NaN,0,0,NaN,1.45,2020-04-10
+346,"Tocino de cielo EROSKI, pack 2x100 g",Tocino de cielo EROSKI,pack 2x100 g,score-c,KILO,5.20,1,5.0,NaN,1.04,2020-04-10
+347,"Salsa basilico EROSKI, frasco 350 g",Salsa basilico EROSKI,frasco 350 g,score-c,KILO,3.54,0,0,NaN,1.24,2020-04-10
+348,"Pechuga de pavo adobada EROSKI Sannia, bandeja 350 g",Pechuga de pavo adobada EROSKI Sannia,bandeja 350 g,score-a,KILO,9.00,0,0,NaN,3.15,2020-04-10
+349,"Chorizo dulce-Pamplona EROSKI, pack 2x90 g",Chorizo dulce-Pamplona EROSKI,pack 2x90 g,score-e,KILO,10.83,0,0,NaN,1.95,2020-04-10
+350,"Jalea real con ginseng EROSKI, caja 10 viales",Jalea real con ginseng EROSKI,caja 10 viales,score-c,UNIDAD,0.58,0,0,NaN,5.75,2020-04-10
+351,"Sorbete palo de fresa-yogur EROSKI, 6 uds., caja 320 g",Sorbete palo de fresa-yogur EROSKI,6 uds.,score-c,KILO,4.97,0,0,NaN,1.59,2020-04-10
+352,"Mortadela EROSKI basic, pieza 400 g",Mortadela EROSKI basic,pieza 400 g,score-d,KILO,3.45,0,0,NaN,1.38,2020-04-10
+353,"Salsa ricotta EROSKI, frasco 350 g",Salsa ricotta EROSKI,frasco 350 g,score-c,KILO,3.54,0,0,NaN,1.24,2020-04-10
+354,"Pechuga fileteada de pollo empanada EROSKI, bandeja aprox. 400 g",Pechuga fileteada de pollo empanada EROSKI,bandeja aprox. 400 g,score-a,KILO,8.95,0,0,NaN,3.58,2020-04-10
+355,"Chopped de cerdo EROSKI basic, sobre 250 g",Chopped de cerdo EROSKI basic,sobre 250 g,score-d,KILO,4.00,0,0,NaN,1.00,2020-04-10
+356,"Cacahuetes con chocolate negro EROSKI, bolsa 150 g",Cacahuetes con chocolate negro EROSKI,bolsa 150 g,score-e,KILO,7.27,1,5.0,NaN,1.09,2020-04-10
+357,"Chocogalleta SCHÄR, paquete 150 g",Chocogalleta SCHÄR,paquete 150 g,NaN,KILO,13.87,0,0,NaN,2.08,2020-04-10
+358,"Nuggets de pollo EROSKI, bandeja 280 g",Nuggets de pollo EROSKI,bandeja 280 g,score-b,KILO,8.93,0,0,NaN,2.50,2020-04-10
+359,"Sorbete palo de mango-yogur EROSKI, 6 uds., caja 320 g",Sorbete palo de mango-yogur EROSKI,6 uds.,score-c,KILO,5.16,0,0,NaN,1.65,2020-04-10
+360,"Lactozumo Mediterráneo EROSKI, brik 1 litro",Lactozumo Mediterráneo EROSKI,brik 1 litro,score-b,NaN,NaN,0,0,NaN,0.64,2020-04-10
+361,"Crema de calabaza EROSKI, brik 500 g",Crema de calabaza EROSKI,brik 500 g,score-b,KILO,2.28,0,0,NaN,1.14,2020-04-10
+362,"Pincho de pavo tradicional EROSKI, bandeja 360 g",Pincho de pavo tradicional EROSKI,bandeja 360 g,score-b,KILO,9.72,0,0,NaN,3.50,2020-04-10
+363,"Choco chip cookies SCHAR, paquete 200 g",Choco chip cookies SCHAR,paquete 200 g,NaN,KILO,11.85,0,0,NaN,2.37,2020-04-10
+364,"Almendras garrapiñadas EROSKI, tarrina 185 g",Almendras garrapiñadas EROSKI,tarrina 185 g,score-d,KILO,16.16,0,0,NaN,2.99,2020-04-10
+365,"Mix de frutos secos classic EROSKI, tarrina 165 g",Mix de frutos secos classic EROSKI,tarrina 165 g,score-b,KILO,13.27,1,4.0,NaN,2.19,2020-04-10
+366,"Cortezas de cerdo EROSKI, paquete 75 g",Cortezas de cerdo EROSKI,paquete 75 g,score-e,KILO,8.80,0,0,NaN,0.66,2020-04-10
+367,"Pasa sultana con chocolate con leche EROSKI, bolsa 150 g",Pasa sultana con chocolate con leche EROSKI,bolsa 150 g,score-d,KILO,11.27,1,5.0,NaN,1.69,2020-04-10
+368,"Cookies de choco blanco sin gluten EROSKI, paquete 150 g",Cookies de choco blanco sin gluten EROSKI,paquete 150 g,score-e,KILO,17.93,0,0,NaN,2.69,2020-04-10
+369,"Bloc foie gras de pato Eroski SELEQTIA, al corte, compra mínima 100 g",Bloc foie gras de pato Eroski SELEQTIA,al corte,score-e,KILO,54.00,1,4.0,NaN,5.40,2020-04-10
+370,"Almendras tostadas EROSKI, tarrina 150 g",Almendras tostadas EROSKI,tarrina 150 g,score-a,KILO,16.60,0,0,NaN,2.49,2020-04-10
+371,"Corn Flakes SCHÄR, paquete 250 g",Corn Flakes SCHÄR,paquete 250 g,NaN,KILO,8.52,0,0,NaN,2.13,2020-04-10
+372,"Biscotes PROCELI, caja 150 g",Biscotes PROCELI,caja 150 g,NaN,KILO,23.87,0,0,NaN,3.58,2020-04-10
+373,"Chocolate a la taza EROSKI, tableta 300 g",Chocolate a la taza EROSKI,tableta 300 g,score-c,KILO,5.17,0,0,NaN,1.55,2020-04-10
+374,"Salchicha de pollo-pavo Eroski SELEQTIA, sobre 360 g",Salchicha de pollo-pavo Eroski SELEQTIA,sobre 360 g,score-d,KILO,8.03,0,0,NaN,2.89,2020-04-10
+375,"Maíz frito gigante sabor barbacoa EROSKI, tarrina 130 g",Maíz frito gigante sabor barbacoa EROSKI,tarrina 130 g,score-b,KILO,9.08,0,0,NaN,1.18,2020-04-10
+376,"Queso crema con rulo de cabra Eroski SELEQTIA, tarrina 150 g",Queso crema con rulo de cabra Eroski SELEQTIA,tarrina 150 g,score-d,KILO,12.20,1,5.0,NaN,1.83,2020-04-10
+377,"Mini Choco SCHÄR, paquete 100 g",Mini Choco SCHÄR,paquete 100 g,NaN,KILO,15.50,0,0,NaN,1.55,2020-04-10
+378,"Muslito de pollo asado con jamón EROSKI Maestro, bandeja 125 g",Muslito de pollo asado con jamón EROSKI Maestro,bandeja 125 g,score-d,KILO,18.32,0,0,NaN,2.29,2020-04-10
+379,"Picos sin gluten EROSKI, bolsa 100 g",Picos sin gluten EROSKI,bolsa 100 g,score-d,KILO,17.00,0,0,NaN,1.70,2020-04-10
+380,"Filete lomo fino ibérico adobado Eroski SELEQTIA, bandeja aprox. 150 g",Filete lomo fino ibérico adobado Eroski SELEQTIA,bandeja aprox. 150 g,score-d,KILO,23.93,0,0,NaN,3.59,2020-04-10
+381,"Caballa con tomate EROSKI, lata 85 g",Caballa con tomate EROSKI,lata 85 g,score-a,KILO,8.82,0,0,NaN,0.75,2020-04-10
+382,"Pipas de calabaza EROSKI, tarrina 150 g",Pipas de calabaza EROSKI,tarrina 150 g,score-e,KILO,9.13,0,0,NaN,1.37,2020-04-10
+383,"Plumas sin gluten SAM MILLS, paquete 500 g",Plumas sin gluten SAM MILLS,paquete 500 g,NaN,KILO,3.32,0,0,NaN,1.66,2020-04-10
+384,"Tortita de maíz sin gluten EROSKI, paquete 130 g",Tortita de maíz sin gluten EROSKI,paquete 130 g,score-b,KILO,7.62,0,0,NaN,0.99,2020-04-10
+385,"Morcón ibérico extra EROSKI, al corte, compra mínima 100 g",Morcón ibérico extra EROSKI,al corte,score-e,KILO,27.30,0,0,NaN,2.73,2020-04-10
+386,"Soluble de cacao fibra EROSKI, bote 400 g",Soluble de cacao fibra EROSKI,bote 400 g,score-a,KILO,8.13,0,0,NaN,3.25,2020-04-10
+387,"Mix de frutos secos select EROSKI, tarrina 175 g",Mix de frutos secos select EROSKI,tarrina 175 g,score-c,KILO,14.00,0,0,NaN,2.45,2020-04-10
+388,"Chorizo troncal ALEJANDRO, pieza 300 g",Chorizo troncal ALEJANDRO,pieza 300 g,NaN,KILO,17.30,0,0,NaN,5.19,2020-04-10
+389,"Queso crema de cabra con nueces Eroski SELEQTIA, tarrina 150 g",Queso crema de cabra con nueces Eroski SELEQTIA,tarrina 150 g,score-c,KILO,12.60,2,4.5,NaN,1.89,2020-04-10
+390,"Tentáculos de calamar a la gallega EROSKI, lata 115 g",Tentáculos de calamar a la gallega EROSKI,lata 115 g,score-b,KILO,11.22,0,0,NaN,1.29,2020-04-10
+391,"Cookies de choco c/ leche-avell. s/ gluten EROSKI, paquete 150 g",Cookies de choco c/ leche-avell. s/ gluten EROSKI,paquete 150 g,score-e,KILO,19.93,1,5.0,NaN,2.99,2020-04-10
+392,"Regañas sin gluten EROSKI, bolsa 100 g",Regañas sin gluten EROSKI,bolsa 100 g,score-d,KILO,17.00,0,0,NaN,1.70,2020-04-10
+393,"Pan de molde sin gluten ADPAN, paquete 600 g",Pan de molde sin gluten ADPAN,paquete 600 g,NaN,KILO,7.65,0,0,NaN,4.59,2020-04-10
+394,"Chorizo dulce-Salchichón EROSKI, pack 2x90 g",Chorizo dulce-Salchichón EROSKI,pack 2x90 g,score-e,KILO,10.83,0,0,NaN,1.95,2020-04-10
+395,"Tortita de arroz sin gluten EROSKI, paquete 130 g",Tortita de arroz sin gluten EROSKI,paquete 130 g,score-a,KILO,7.62,0,0,NaN,0.99,2020-04-10
+396,"Bizcocho Marble Cake SCHÄR, paquete 250 g",Bizcocho Marble Cake SCHÄR,paquete 250 g,NaN,KILO,12.12,0,0,NaN,3.03,2020-04-10
+397,"Snack SCHÄR, paquete 105 g",Snack SCHÄR,paquete 105 g,NaN,KILO,22.38,0,0,NaN,2.35,2020-04-10
+398,"Cookies de choco blanco-limón sin gluten EROSKI, paquete 150 g",Cookies de choco blanco-limón sin gluten EROSKI,paquete 150 g,score-e,KILO,19.93,0,0,NaN,2.99,2020-04-10
+399,"Cracker SCHAR, caja 210 g",Cracker SCHAR,caja 210 g,NaN,KILO,19.95,0,0,NaN,4.19,2020-04-10
+400,"Lomo embuchado EROSKI, taco 400 g",Lomo embuchado EROSKI,taco 400 g,score-d,KILO,20.38,0,0,NaN,8.15,2020-04-10
+401,"Milly Gris&Ciocc para untar SCHÄR, bote 52 g",Milly Gris&Ciocc para untar SCHÄR,bote 52 g,NaN,KILO,34.42,0,0,NaN,1.79,2020-04-10
+402,"Cereales Corn Flakes SCHAR, caja 300 g",Cereales Corn Flakes SCHAR,caja 300 g,NaN,KILO,15.17,0,0,NaN,4.55,2020-04-10
+403,"Chopped EROSKI basic mini, pieza 400g",Chopped EROSKI basic mini,pieza 400g,score-d,KILO,4.13,0,0,NaN,1.65,2020-04-10
+404,"Chocolate a la taza EROSKI, bote 350 g",Chocolate a la taza EROSKI,bote 350 g,score-b,KILO,3.57,0,0,NaN,1.25,2020-04-10
+405,"Chocolate con leche-almendras enteras EROSKI, tableta 200 g",Chocolate con leche-almendras enteras EROSKI,tableta 200 g,score-e,KILO,7.25,1,5.0,NaN,1.45,2020-04-10
+406,"Galleta con mantequilla sin gluten GERBLÉ, caja 175 g",Galleta con mantequilla sin gluten GERBLÉ,caja 175 g,NaN,KILO,19.37,0,0,NaN,3.39,2020-04-10
+407,"Membrillo artesano panela light EROSKI, al corte, compra mínima 250 g",Membrillo artesano panela light EROSKI,al corte,score-a,KILO,7.52,0,0,NaN,1.88,2020-04-10
+408,"Panzerottini Prosciutto & Formaggio SCHAR, caja 210 g",Panzerottini Prosciutto & Formaggio SCHAR,caja 210 g,NaN,KILO,15.62,0,0,NaN,3.28,2020-04-10
+409,"Chorizo de Salamanca EROSKI, pieza 400 g",Chorizo de Salamanca EROSKI,pieza 400 g,score-e,KILO,14.88,0,0,NaN,5.95,2020-04-10
+410,"Magdalena sin gluten GERBLÉ, caja 180 g",Magdalena sin gluten GERBLÉ,caja 180 g,NaN,KILO,20.28,0,0,NaN,3.65,2020-04-10
+411,"Crema de calabacín con queso EROSKI, brik 500 g",Crema de calabacín con queso EROSKI,brik 500 g,score-c,KILO,2.28,0,0,NaN,1.14,2020-04-10
+412,"Salsa de yogur EROSKI, bote 300 g",Salsa de yogur EROSKI,bote 300 g,score-c,KILO,4.07,0,0,NaN,1.22,2020-04-10
+413,"Waffers de chocolate sin gluten PROCELI, caja 130 g",Waffers de chocolate sin gluten PROCELI,caja 130 g,NaN,KILO,23.46,0,0,NaN,3.05,2020-04-10
+414,"Bizcocho de naranja sin gluten EROSKI, bolsa 300 g",Bizcocho de naranja sin gluten EROSKI,bolsa 300 g,score-d,KILO,9.97,0,0,NaN,2.99,2020-04-10
+415,"Palmera de chocolate ADPAN, 2 unid., caja 100 g",Palmera de chocolate ADPAN,2 unid.,NaN,KILO,40.90,0,0,NaN,4.09,2020-04-10
+416,"Grissini SCHAR, pack 3x50 g",Grissini SCHAR,pack 3x50 g,NaN,KILO,21.20,0,0,NaN,3.18,2020-04-10
+417,"Caramelos de regalíz sin azúcar EROSKI, bolsa 90 g",Caramelos de regalíz sin azúcar EROSKI,bolsa 90 g,score-b,KILO,8.67,0,0,NaN,0.78,2020-04-10
+418,"Crema de verdura mediterránea EROSKI, brik 500 g",Crema de verdura mediterránea EROSKI,brik 500 g,score-b,KILO,2.28,0,0,NaN,1.14,2020-04-10
+419,"Mini tortita sabor jamón EROSKI, bolsa 60 g",Mini tortita sabor jamón EROSKI,bolsa 60 g,score-d,KILO,16.50,0,0,NaN,0.99,2020-04-10
+420,"Almendras con chocolate negro EROSKI, bolsa 150 g",Almendras con chocolate negro EROSKI,bolsa 150 g,score-e,KILO,13.27,0,0,NaN,1.99,2020-04-10
+421,"Mix C Mix repostería SCHAR, paquete 1 kg",Mix C Mix repostería SCHAR,paquete 1 kg,NaN,NaN,NaN,0,0,NaN,4.59,2020-04-10
+422,"Bizcocho marmol sin gluten EROSKI, bolsa 300 g",Bizcocho marmol sin gluten EROSKI,bolsa 300 g,score-d,KILO,9.97,0,0,NaN,2.99,2020-04-10
+423,"Morcilla de arroz pincho EROSKI, sobre aprox. 550 g",Morcilla de arroz pincho EROSKI,sobre aprox. 550 g,score-c,KILO,5.73,0,0,NaN,3.15,2020-04-10
+424,"Tortitas sabor barbacoa EROSKI, paquete 125 g",Tortitas sabor barbacoa EROSKI,paquete 125 g,score-d,KILO,11.84,0,0,NaN,1.48,2020-04-10
+425,"Ciabattine SCHAR, paquete 200 g",Ciabattine SCHAR,paquete 200 g,NaN,KILO,17.95,0,0,NaN,3.59,2020-04-10
+426,"Mix de frutos secos sabor barbacoa EROSKI, bolsa 160 g",Mix de frutos secos sabor barbacoa EROSKI,bolsa 160 g,score-d,KILO,6.13,0,0,NaN,0.98,2020-04-10
+427,"Paté de pato-cebolla caramelizada EROSKI Maestro, blister 75 g",Paté de pato-cebolla caramelizada EROSKI Maestro,blister 75 g,score-e,KILO,22.00,0,0,NaN,1.65,2020-04-10
+428,"Mini bizcocho de chocolate sin gluten GERBLÉ, caja 200 g",Mini bizcocho de chocolate sin gluten GERBLÉ,caja 200 g,NaN,KILO,24.95,0,0,NaN,4.99,2020-04-10
+429,"Galleta Digestive con cacao sin glúten NOGLUT, paquete 200 g",Galleta Digestive con cacao sin glúten NOGLUT,paquete 200 g,NaN,KILO,10.95,0,0,NaN,2.19,2020-04-10
+430,"Wafers de cacao SCHÄR, paquete 150 g",Wafers de cacao SCHÄR,paquete 150 g,NaN,KILO,17.44,0,0,NaN,2.18,2020-04-10
+431,"Pechuga de pavo a las finas hierbas EROSKI Sannia, bandeja 350 g",Pechuga de pavo a las finas hierbas EROSKI Sannia,bandeja 350 g,score-a,KILO,9.00,0,0,NaN,3.15,2020-04-10
+432,"Salsa brava EROSKI, bocabajo 330 g",Salsa brava EROSKI,bocabajo 330 g,score-d,KILO,2.48,0,0,NaN,0.82,2020-04-10
+433,"Lasagna SCHARD, bandeja 300 g",Lasagna SCHARD,bandeja 300 g,NaN,KILO,11.97,0,0,NaN,3.59,2020-04-10
+434,"Salchichón extra EROSKI basic, al corte, compra mínima 100 g",Salchichón extra EROSKI basic,al corte,score-e,KILO,9.50,1,5.0,NaN,0.95,2020-04-10
+435,"Ciocko Sticks SCHAR, paquete 150 g",Ciocko Sticks SCHAR,paquete 150 g,NaN,KILO,20.33,0,0,NaN,3.05,2020-04-10
+436,"Chorizo magno vela ALEJANDRO, pieza 300 g",Chorizo magno vela ALEJANDRO,pieza 300 g,NaN,KILO,17.30,0,0,NaN,5.19,2020-04-10
+437,"Panceta de cerdo ibérico adobado E. SELEQTIA, bandeja aprox. 350 g",Panceta de cerdo ibérico adobado E. SELEQTIA,bandeja aprox. 350 g,score-d,KILO,7.40,0,0,NaN,2.59,2020-04-10
+438,"Pipas de calabaza tostada sin sal EROSKI, bolsa 75 g",Pipas de calabaza tostada sin sal EROSKI,bolsa 75 g,score-d,KILO,10.27,0,0,NaN,0.77,2020-04-10
+439,"Paté de pato-trufa EROSKI Maestro, blister 75 g",Paté de pato-trufa EROSKI Maestro,blister 75 g,score-e,KILO,22.00,0,0,NaN,1.65,2020-04-10
+440,"Fish Fingers SCHAR, caja 375 g",Fish Fingers SCHAR,caja 375 g,NaN,KILO,13.31,0,0,NaN,4.99,2020-04-10
+441,"Petit Al Cioccolato SCHAR, paquete 130 g",Petit Al Cioccolato SCHAR,paquete 130 g,NaN,KILO,28.85,0,0,NaN,3.75,2020-04-10
+442,"Salinis SCHAR, paquete 60 g",Salinis SCHAR,paquete 60 g,NaN,KILO,18.17,0,0,NaN,1.09,2020-04-10
+443,"Harina sin gluten ADPAN, paquete 1 kg",Harina sin gluten ADPAN,paquete 1 kg,NaN,NaN,NaN,0,0,NaN,5.25,2020-04-10
+444,"Mix de frutos secos picante EROSKI, bolsa 160 g",Mix de frutos secos picante EROSKI,bolsa 160 g,score-d,KILO,6.13,0,0,NaN,0.98,2020-04-10
+445,"Twinny SCHAR, paquete 3 x 64,5 g",Twinny SCHAR,paquete 3 x 64,NaN,KILO,12.87,0,0,NaN,2.49,2020-04-10
+446,"Biscotto Pettit SCHÄR, paquete 165 g",Biscotto Pettit SCHÄR,paquete 165 g,NaN,KILO,15.45,0,0,NaN,2.55,2020-04-10
+447,"Spaguetti sin gluten SAN MILLS, paquete 500 g",Spaguetti sin gluten SAN MILLS,paquete 500 g,NaN,KILO,4.18,0,0,NaN,2.09,2020-04-10
+448,"Quadradito de chocolate SCHÄR, paquete 40 g",Quadradito de chocolate SCHÄR,paquete 40 g,NaN,NaN,NaN,0,0,NaN,1.14,2020-04-10
+449,"Panzerottini Pomodoro Mozzarella SCHAR, caja 210 g",Panzerottini Pomodoro Mozzarella SCHAR,caja 210 g,NaN,KILO,17.10,0,0,NaN,3.59,2020-04-10
+450,"Espirales sin gluten SAM MILLS, paquete 500 g",Espirales sin gluten SAM MILLS,paquete 500 g,NaN,KILO,3.18,0,0,NaN,1.59,2020-04-10
+451,"Mermelada de melocotón-maracuya Eroski SELEQTIA, frasco 230 g",Mermelada de melocotón-maracuya Eroski SELEQTIA,frasco 230 g,NaN,KILO,6.48,0,0,NaN,1.49,2020-04-10
+452,"Fette Croccanti CHAR, caja 150 g",Fette Croccanti CHAR,caja 150 g,NaN,KILO,14.33,0,0,NaN,2.15,2020-04-10
+453,"Gran Cono SCHAR, caja 420 g",Gran Cono SCHAR,caja 420 g,NaN,KILO,17.26,0,0,NaN,7.25,2020-04-10
+454,"Pipas de girasol tostadas sin sal EROSKI, bolsa 75 g",Pipas de girasol tostadas sin sal EROSKI,bolsa 75 g,score-c,KILO,6.27,0,0,NaN,0.47,2020-04-10
+455,"Cioccolini SCHAR, caja 150 g",Cioccolini SCHAR,caja 150 g,NaN,KILO,19.93,0,0,NaN,2.99,2020-04-10
+456,"Paté de pato a la pimienta verde EROSKI Maestro, blister 75 g",Paté de pato a la pimienta verde EROSKI Maestro,blister 75 g,score-e,KILO,22.00,0,0,NaN,1.65,2020-04-10
+457,"Tiramisú sin gluten SCHAR, pack 2x100 g",Tiramisú sin gluten SCHAR,pack 2x100 g,NaN,KILO,24.95,0,0,NaN,4.99,2020-04-10
+458,"Wafers de vainilla SCHÄR, paquete 125 g",Wafers de vainilla SCHÄR,paquete 125 g,NaN,KILO,18.00,0,0,NaN,2.25,2020-04-10
+459,"Wafer de avellana SCHAR, paquete 125 g",Wafer de avellana SCHAR,paquete 125 g,NaN,KILO,18.00,0,0,NaN,2.25,2020-04-10
+460,"Mermelada de mandarina-cardamomo Eroski SELEQTIA, frasco 230 g",Mermelada de mandarina-cardamomo Eroski SELEQTIA,frasco 230 g,NaN,KILO,6.04,1,5.0,NaN,1.39,2020-04-10
+461,"Milly Magic 1-2-3 SCHÄR, paquete 250 g",Milly Magic 1-2-3 SCHÄR,paquete 250 g,NaN,KILO,15.96,0,0,NaN,3.99,2020-04-10
+462,"Barrita de choco-leche sin gluten BICENTURY Sarialis, caja 78 g",Barrita de choco-leche sin gluten BICENTURY Sarialis,caja 78 g,NaN,KILO,32.69,0,0,NaN,2.55,2020-04-10
+463,"Dulce de higo Eroski SELEQTIA, tarrina 200 g",Dulce de higo Eroski SELEQTIA,tarrina 200 g,score-c,KILO,9.95,1,3.0,NaN,1.99,2020-04-10
+464,"Mermelada de manzana-canela Eroski SELEQTIA, frasco 230 g",Mermelada de manzana-canela Eroski SELEQTIA,frasco 230 g,NaN,KILO,6.30,0,0,NaN,1.45,2020-04-10
+465,"Saltí SCHAR, paquete 175 g",Saltí SCHAR,paquete 175 g,NaN,KILO,18.57,0,0,NaN,3.25,2020-04-10
+466,"Galletas de cacao rellenas sin gluten GERBLÉ, caja 125 g",Galletas de cacao rellenas sin gluten GERBLÉ,caja 125 g,NaN,KILO,27.12,0,0,NaN,3.39,2020-04-10
+467,"Fídeos Capelli D`Angelo SCHÄR, caja 250 g",Fídeos Capelli D`Angelo SCHÄR,caja 250 g,NaN,KILO,9.00,0,0,NaN,2.25,2020-04-10
+468,"Pimentón pulpería POTE, caja 20 g",Pimentón pulpería POTE,caja 20 g,NaN,NaN,NaN,0,0,NaN,1.29,2020-04-10
+469,"Pasta Anellini SCHÄR, caja 250 g",Pasta Anellini SCHÄR,caja 250 g,NaN,KILO,7.96,0,0,NaN,1.99,2020-04-10
+470,"Fettucini sin gluten SAM MILLS, paquete 500 g",Fettucini sin gluten SAM MILLS,paquete 500 g,NaN,KILO,3.10,0,0,NaN,1.55,2020-04-10
+471,"Frollini SCHAR, paquete 200 g",Frollini SCHAR,paquete 200 g,NaN,KILO,13.75,0,0,NaN,2.75,2020-04-10
+472,"Conchiliette sin gluten SAM MILLS, paquete 500 g",Conchiliette sin gluten SAM MILLS,paquete 500 g,NaN,KILO,3.10,0,0,NaN,1.55,2020-04-10
+473,"No Egg sustituto de huevo ORGRAN, caja 200 g",No Egg sustituto de huevo ORGRAN,caja 200 g,NaN,KILO,20.75,0,0,NaN,4.15,2020-04-10
+474,"Chocolate Cake mix ORGRAN, caja 375 g",Chocolate Cake mix ORGRAN,caja 375 g,NaN,KILO,11.97,0,0,NaN,4.49,2020-04-10
+475,"Millefoglie SCHAR, caja 250 g",Millefoglie SCHAR,caja 250 g,NaN,KILO,14.00,0,0,NaN,3.50,2020-04-10
+476,"Chips vegetales EROSKI, bolsa 95 g",Chips vegetales EROSKI,bolsa 95 g,score-c,KILO,18.84,0,0,NaN,1.79,2020-04-10
