@@ -60,6 +60,7 @@ def scroll(driver, timeout):
     print ("fin del scroll")
 
 
+#Por si por tiempo de espera no funcionase el While, podemos forzar la lectura total con un bloque for.
 #def scroll(driver, timeout):
 
 #    for i in range (1,40):
@@ -68,17 +69,11 @@ def scroll(driver, timeout):
         # sleep
 #        time.sleep(timeout)
 
+#Utilizamos las opciones de Chrome para abrir el navegador en segundo plano
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument("headless")
 
-#Identificamos el driver    
-#driver = webdriver.Chrome("C:/chromedriver.exe") #la ruta donde tengamos el ejecutable
-#Vamos a utilizar PhnatomJS que nos permite realizar las mismas acciones que con el driver de chrome, 
-# pero abriéndolo en segundo plano.
-#Para su ejecución hay que tener en cuenta el directorio donde hemos descargado el ejecutable.
-driver = webdriver.PhantomJS("C:/phantomjs.exe")
-
-options = Options()
-options.headless = True #No abrimos el navegador
-#driver = webdriver.Firefox(firefox_options=options, executable_path = "C:/geckodriver.exe")
+driver = webdriver.Chrome("C:/chromedriver.exe", chrome_options=chrome_options) #la ruta donde tengamos el ejecutable
 
 #Creamos una espera previa en el caso de que nos devuelva algún error dar un error
 driver.implicitly_wait(100)
@@ -86,7 +81,7 @@ driver.implicitly_wait(100)
 driver.get(str)
 
 #Llamamos a la función de scroll con una espera entre scroll hacia abajo de 7 sg
-scroll (driver, 5)
+scroll (driver, 13)
 
 #Parseamos el html resultante con toda la información
 soup = BeautifulSoup(driver.page_source, "html.parser")
