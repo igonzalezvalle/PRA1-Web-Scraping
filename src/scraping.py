@@ -69,9 +69,18 @@ def scroll(driver, timeout):
         # sleep
 #        time.sleep(timeout)
 
+# ****** Ejecución con PhantomJS y Firefox *******
+#driver = webdriver.PhantomJS("C:/phantomjs.exe")
+
+#options = Options()
+#options.headless = True #No abrimos el navegador
+#driver = webdriver.Firefox(firefox_options=options, executable_path = "C:/geckodriver.exe")
+# *************
+
+# ******** Ejecución con Chrome *******
 #Utilizamos las opciones de Chrome para abrir el navegador en segundo plano
 chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument("headless")
+chrome_options.add_argument("headless") #No abrimos el navegador
 
 driver = webdriver.Chrome("C:/chromedriver.exe", chrome_options=chrome_options) #la ruta donde tengamos el ejecutable
 
@@ -81,7 +90,7 @@ driver.implicitly_wait(100)
 driver.get(str)
 
 #Llamamos a la función de scroll con una espera entre scroll hacia abajo de 7 sg
-scroll (driver, 13)
+scroll (driver, 7)
 
 #Parseamos el html resultante con toda la información
 soup = BeautifulSoup(driver.page_source, "html.parser")
